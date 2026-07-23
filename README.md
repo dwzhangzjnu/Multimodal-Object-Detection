@@ -19,10 +19,22 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 ### YOLO Series
 
+- **YOLO-Master:** Xu Lin, Jinlong Peng, Zhenye Gan, Jiawen Zhu, Jun Liu.
+   "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2512.23273)] [[code](https://github.com/Tencent/YOLO-Master)]
+
 - **Ultralytics:** Ranjan Sapkota, Manoj Karkee.
    "Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8 and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition." arXiv (2025).
   [[paper](https://arxiv.org/abs/2510.09653)] [[code](https://github.com/ultralytics/ultralytics)]
 
+- **Mamba YOLO:** Zeyu Wang, Chen Li, Huiying Xu, Xinzhong Zhu, Hongbo Li.
+   "Mamba YOLO: A Simple Baseline for Object Detection with State Space Model." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2406.05835)] [[code](https://github.com/HZAI-ZJNU/Mamba-YOLO)]
+
+- **FBRT-YOLO:** Yao Xiao, Tingfa Xu, Yu Xin, Jianan Li.
+   "FBRT-YOLO: Faster and Better for Real-Time Aerial Image Detection." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2504.20670)] [[code](https://github.com/galaxy-oss/FCM)]
+  
 - **YOLOv9:** Chien-Yao Wang, I-Hau Yeh, Hong-Yuan Mark Liao.
    "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information." arXiv (2024).
   [[paper](https://arxiv.org/abs/2402.13616)] [[code](https://github.com/WongKinYiu/yolov9)]
@@ -38,10 +50,22 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models." ECCV (2026).
   [[paper](https://arxiv.org/abs/2510.25257)] [[code](https://github.com/RT-DETRs/RT-DETRv4)]
 
+- **LoRA-DETR:** Yiwei Zhang, Jin Gao, Hanshi Wang, Fudong Ge, Guan Luo, Weiming Hu, Zhipeng Zhang.
+   "Integrating Diverse Assignment Strategies into DETRs." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2601.09247)] [[code](https://github.com/Z1zyw/LoRA-DETR)]
+  
 - **UAV-DETR:** Jun Yang, Dong Wang, Hongxu Yin, Hongpeng Li, Jianxiong Yu.
    "UAV-DETR: DETR for Anti-Drone Target Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2603.22841)] [[code](https://github.com/wd-sir/UAVDETR)]
 
+- **UAV-DETR:** Huaxiang Zhang, Kai Liu, Zhongxue Gan, Guo-Niu Zhu.
+   "UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2501.01855)] [[code](https://github.com/ValiantDiligent/UAV-DETR)]
+
+- **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
+   "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
+  
 - **DEIM:** Shihua Huang, Zhichao Lu, Xiaodong Cun, Yongjun Yu, Xiao Zhou, Xi Shen.
    "DEIM: DETR with Improved Matching for Fast Convergence." CVPR (2025).
   [[paper](https://arxiv.org/abs/2412.04234)] [[code](https://github.com/Intellindust-AI-Lab/DEIM)]
@@ -58,6 +82,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DETRs Beat YOLOs on Real-time Object Detection." CVPR (2024).
   [[paper](https://arxiv.org/abs/2304.08069)] [[code](https://github.com/lyuwenyu/RT-DETR)]
 
+- **Decoupled DETR:** Manyuan Zhang, Guanglu Song, Yu Liu, Hongsheng Li.
+   "Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2310.15955)] [[code]( )]
+  
 - **Deformable DETR:** Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai.
    "Deformable DETR: Deformable Transformers for End-to-End Object Detection." ICLR (2021).
   [[paper](https://arxiv.org/abs/2010.04159)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
@@ -122,6 +150,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "CrossWeaver: Towards Efficient Cross-Modal Interweaving and Decoupling for Weakly-Aligned Multispectral Object Detection." CVPRF (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Yang_CrossWeaver_Towards_Efficient_Cross-Modal_Interweaving_and_Decoupling_for_Weakly-Aligned_Multispectral_CVPRF_2026_paper.html)] [[code](https://github.com/zhouzhang11/CrossWeaver)]
 
+- **Scarf-DETR:** Shuo Yang, Yinghui Xing, Shizhou Zhang, Zhilong Niu.
+   "On Modality Incomplete Infrared-Visible Object Detection: An Architecture Compatibility Perspective." AAAI Workshop (2026).
+  [[paper](https://arxiv.org/abs/2511.06406)] [[code](https://github.com/YinghuiXing/Scarf-DETR)]
+
 - **DVT-VOD1000/DHNet:** Qishun Wang, Yapeng Li, Bin Luo, Zhengzheng Tu, Chenglong Li.
    "Dual-Correlation Hypergraph Network for Unaligned RGBT Video Object Detection and A Large-scale Benchmark." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.08191)] [[code](https://github.com/tzz-ahu/)]
@@ -130,6 +162,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "ImageBind Guided Progressive Transformation Network for Alignment-free RGBT Video Object Detection." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02935-8)] [[code]( )]
 
+- **AFFNet:** Zhanyan Tang; Zhihao Wu; Mu Li; Jie Wen; Bob Zhang; Yong Xu.
+   "Adaptive Fine-Grained Fusion Network for Multimodal UAV Object Detection." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11393654)] [[code](https://github.com/lingf5877/AFFNet)]
+  
 - **FreDFT:** Wencong Wu, Xiuwei Zhang, Hanlin Yin, Shun Dai, Hongxi Zhang, Yanning Zhang.
    "FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection." TMM (2026).
   [[paper](https://arxiv.org/abs/2511.10046)] [[code](https://github.com/WenCongWu/FreDFT)]
@@ -174,10 +210,18 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "CCRDet: Cross-modal complementary region-aware framework for drone-based RGBT tiny person detection." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526002873)] [[code](https://github.com/G-pz/CCRDet)]
 
+- **COMO:** Chang Liu, Xin Ma, Xiaochen Yang, Yuxiang Zhang, Yanni Dong.
+   "COMO: Cross-mamba interaction and offset-guided fusion for multimodal object detection." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525004877)] [[code](https://github.com/luluyuu/COMO)]
+  
+- **BDDS:** Zhangyong Tang, Youchen Xie, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.
+   "Learning Bi-directional fusion and deformation-sensitive loss for RGB-T tiny object detection." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525010474)] [[code]( )]
+
 - **DFAS-CMA:** Xuehu Duan, Xiangqing Liu, Zihao Li, Jun Lei, Shuohao Li, Jun Zhang.
    "DFAS-CMA: A decoupled feature adaptive sharing and cross-Modulation approach for UAV multi-Source object detection." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526001995)] [[code]( )]
-
+  
 - **LCAFNet:** Wencong Wu, Hongxi Zhang, Xiuwei Zhang, Hanlin Yin, Yanning Zhang.
    "Lightweight modal-guided cross-attention fusion network for visible-infrared object detection." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326003158)] [[code](https://github.com/WenCongWu/LCAFNet)]
@@ -186,9 +230,21 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "LDFE: Laplacian Decoupled Feature Enhancement block for dual-stream CNN-based RGB-IR object detection." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009003)] [[code]( )]
 
+- **MKP:** You Ma, Lin Chai, Shihan Mao, Yucheng Zhang.
+   "Learning modality knowledge with proxy for RGB-Infrared object detection." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001925)] [[code]( )]
+  
  - **IRDFusion:** Jifeng Shen, Haibo Zhan, Xin Zuo, Heng Fan, Xiaohui Yuan, Jun Li, Wankou Yang.
    "IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection." PR (2026).
   [[paper](https://arxiv.org/abs/2509.09085)] [[code](https://github.com/61s61min/IRDFusion)]
+
+ - **DAKM:** You Ma, Yucheng Zhang, Shihan Mao, Lin Chai, Qingling Wang.
+   "Balanced multi-modality knowledge mining for RGB-infrared object detection." NN (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025013024)] [[code]( )]
+
+ - **IFCAF:** Zinan Liu, Chunyu Zhu, Yachao Li, Pei Ye.
+   "A novel implicit cross-attention framework for RGB-T object detection." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004835)] [[code](https://github.com/chunyuzhu/IFCAF)]
 
  - **FMAF-YOLO:** Zhengju Jia, Ming Hui, Jinshu Huang, Zufeng Fu, Tingxiao Pan and Jinghong Yao.
    "FMAF-YOLO: fine-grained multi-modal adaptive fusion network for multispectral object detection." MST (2026).
@@ -198,6 +254,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv (2026).
   [[paper](https://arxiv.org/abs/2512.24561)] [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
 
+- **SLGNet:** Xiantai Xiang, Guangyao Zhou, Zixiao Wen, Wenshuai Li, Ben Niu, Feng Wang, Lijia Huang, Qiantong Wang, Yuhan Liu, Zongxu Pan, Yuxin Hu.
+   "SLGNet: Synergizing Structural Priors and Language-Guided Modulation for Multimodal Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.02249)] [[code](https://github.com/Xiantai01/SLGNet)]
+  
 - **Bridging the RGB-IR Gap:** Jiaqi Wu, Zhen Wang, Enhao Huang, Kangqing Shen, Yulin Wang, Yang Yue, Yifan Pu, Gao Huang.
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
@@ -210,6 +270,9 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Reusing Fusion-Time Spectral Reliability for Adaptive Fusion and Expert Routing in RGB-Infrared Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.01173)] [[code]( )]
 
+- **LACE-Det:** "Fusion at the Edge: Misalignment-Tolerant Local Affinity Cross-modality Exchange (LACE) for UAV Infraredâ€“Visible Detection." arXiv (2026).
+  [[code](https://github.com/yithong1216/LACE-Det)]
+  
 - **M2I2HA:** Xiaofan Yang, Yubin Liu, Wei Pan, Guoqing Chu, Junming Zhang, Jie Zhao, Zhuoqi Man, Xuanming Cao.
    "M2I2HA: Multi-modal Object Detection Based on Intra- and Inter-Modal Hypergraph Attention." arXiv (2026).
   [[paper](https://arxiv.org/abs/2601.14776)] [[code]( )]
@@ -236,6 +299,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **WaveMamba:** Haodong Zhu; Wenhao Dong; Linlin Yang; Hong Li; Yuguang Yang; Yangyang Ren.
    "WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection." ICCV (2025).
   [[paper](https://ieeexplore.ieee.org/document/11448994)] [[code](https://github.com/EhanDong/WaveMamba)]
+
+- **FD2-Net:** Ke Li, Di Wang, Zhangyuan Hu, Shaofeng Li, Weiping Ni, Lin Zhao, Quan Wang.
+   "FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.09258)] [[code]( )]
   
 - **UniRGB-IR:** Maoxun Yuan, Bo Cui, Tianyi Zhao, Jiayi Wang, Shan Fu, Xue Yang, Xingxing Wei.
    "UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning." ACM MM (2025).
@@ -273,7 +340,43 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "MGSANet: A Multiscale Graph Spatial Alignment Network for Weakly Aligned RGB-Thermal Object Detection." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11311512)] [[code](https://github.com/KustTeamWQW/MGSANet)]
 
+- **IM-CMDet:** Minchao Luo; Rui Zhao; Shenfu Zhang; Liang Chen; Feng Shao; Xiangchao Meng.
+   "IM-CMDet: An Intramodal Enhancement and Cross-Modal Fusion Network for Small Object Detection in UAV Aerial Visible-Infrared Imagery." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11184277)] [[code](https://github.com/RS-Minchao/IM-CMDet)]
 
+- **MGFF:** Xiangqi Chen; Shan Jin; Li Zhao; Chengzhuan Yang; Dawei Zhang; Xiao Wang, Hua Wang, Zhonglong Zheng.
+   "Mask-Guided Frequency Feature Fusion for Visibleâ€“Infrared Remote Sensing Object Detection." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11175205)] [[code]( )]
+  
+- **SFFR:** Xin Zuo, Chenyu Qu, Haibo Zhan, Jifeng Shen, Wankou Yang.
+   "SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection." TGRS (2025).
+  [[paper](https://arxiv.org/abs/2511.06298)] [[code](https://github.com/qchenyu1027/SFFR)]
+  
+- **C2DFF-Net:** Yue Zhang; Jinbao Chen; Jianyuan Wang; Donghao Shi; Shu Han; Lixiao Deng.
+   "C2DFF-Net for Object Detection in Multimodal Remote Sensing Images." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11180153)] [[code](https://github.com/FPGAzzy/C2DFF-Net)]
+  
+- **CMAI-Det:** Xin Wen; Haixu Yin; Kai Li; Wanying Nie; Jianxun Zhao; Kechen Song.
+   "CMAI-Det: Cross-Modal Alignment and Interaction for RGB-T Object Detection in Drone Scenes." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11303966)] [[code](https://github.com/yhaixu2000-coder/CMAI-Detection)]
+  
+- **RetinexDet:** Zhichao Liu; Keke Geng; Xiaolong Cheng; Ziwei Wang; Guodong Yin; Ye Sun.
+   "RetinexDet: Enhancing Multispectral Object Detection via Retinex State Space Duality and Wavelet-Based Frequency Adaptive Fusion." TII (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11149631)] [[code]( )]
+
+- **MDCF-Net:** Jiangtao Fan, Zeyu Xiao, Anish Jindal, Amir Atapour-Abarghouei.
+   "MDCF-Net: Modality Decomposition and Compensation Fusion Network for Infrared-Visible Object Detection." ECAI (2025).
+  [[paper](https://ebooks.iospress.nl/doi/10.3233/FAIA250826)] [[code](https://github.com/fanjiangtao666/MDCF-Net)]
+
+- **DiffIVF:** Shijie Zhao, Siyu Hu, Anjie Peng, Zhenyu Liang, Hui Zeng, Xing Yang.
+   "DiffIVF: Infrared-Visible Image Fusion via Diffusion Models for Object Detection." PRCV (2025).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_31)] [[code](https://github.com/JieZhaoxiao/DiffIVF)]
+
+- **DOD-SA:** Hang Jin, Chenqiang Gao, Junjie Guo, Fangcen Liu, Kanghui Tian, Qinyao Chang.
+   "DOD-SA: Infrared-Visible Decoupled Object Detection with Single-Modality Annotations." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.10445)] [[code](https://github.com/Hang-J/DOD-SA)]
+  
+  
 ### 2024
 
 - **CF-Deformable DETR:** Haolong Fu, Jin Yuan, Guojin Zhong, Xuan He, Jiacheng Lin, Zhiyong Li.
@@ -295,6 +398,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **CPFM:** Chao Tian; Zikun Zhou; Yuqing Huang; Gaojun Li; Zhenyu He.
    "Cross-Modality Proposal-Guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection." TMM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10382506)] [[code]( )]
+
+- **MS-DETR:** Yinghui Xing, Shuo Yang, Song Wang, Shizhou Zhang, Guoqiang Liang, Xiuwei Zhang, Yanning Zhang.
+   "MS-DETR: Multispectral Pedestrian Detection Transformer with Loosely Coupled Fusion and Modality-Balanced Optimization." TITS (2024).
+  [[paper](https://arxiv.org/abs/2302.00290)] [[code](https://github.com/YinghuiXing/MS-DETR)]
   
 - **ICAFusion:** Jifeng Shen, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.
    "ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection." PR (2024).
@@ -352,6 +459,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   [[paper](https://arxiv.org/abs/2607.20238)] [[code](https://github.com/KlayMa527/IAS)]
   
 ### 2025
+
+- **UNIV:** Fangyuan Mao, Shuo Wang, Jilin Mei, Shun Lu, Chen Min, Fuyang Liu, Xiaokun Feng, Meiqi Wu, Yu Hu.
+   "UNIV: Unified Foundation Model for Infrared and Visible Modalities." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.15642)] [[code](https://github.com/fangyuanmao/UNIV)]
 
 - **DCEvo:** Jinyuan Liu, Bowei Zhang, Qingyun Mei, Xingyuan Li, Yang Zou, Zhiying Jiang, Long Ma, Risheng Liu, Xin Fan.
    "DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion." CVPR (2025).
