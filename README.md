@@ -472,7 +472,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Task-driven Image Fusion with Learnable Fusion Loss." CVPR (2025).
   [[paper](https://arxiv.org/abs/2412.03240)] [[code](https://github.com/HaowenBai/TDFusion)]
 
-### 2023 and Before
+### 2024 and Before
+
+- **IV-Image-Fusion:** Jinyuan Liu; Guanyao Wu; Zhu Liu; Di Wang; Zhiying Jiang; Long Ma.
+   "Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption." TPAMI (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10812907)] [[code]( )]
 
 - **MoE-Fusion:** Yiming Sun, Bing Cao, Pengfei Zhu, Qinghua Hu.
    "Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion." ICCV (2023).
