@@ -475,11 +475,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 ### 2023 and Before
 
 - **MoE-Fusion:** Yiming Sun, Bing Cao, Pengfei Zhu, Qinghua Hu.
-   "Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion." ICCV (2025).
+   "Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion." ICCV (2023).
   [[paper](https://arxiv.org/abs/2302.01392)] [[code](https://github.com/SunYM2020/MoE-Fusion)]
 
 - **DetFusion:** Yiming Sun, Bing Cao, Pengfei Zhu, Qinghua Hu.
-   "DetFusion: A Detection-driven Infrared and Visible Image Fusion Network." ACM MM (2025).
+   "DetFusion: A Detection-driven Infrared and Visible Image Fusion Network." ACM MM (2022).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547902)] [[code](https://github.com/SunYM2020/DetFusion)]
 
   
