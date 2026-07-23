@@ -16,6 +16,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 ## Object Detection 
 
+
 ### YOLO Series
 
 - **Ultralytics:** Ranjan Sapkota, Manoj Karkee.
@@ -72,6 +73,8 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 [[Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)]
 
 [[Multispectral Object Detection](https://github.com/DocF/MOD-ZOO)]
+
+[[Awesome Infrared Small Targets](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)]
 
 ### 2026
 
@@ -331,6 +334,8 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 
 ## Visible-Infrared Image Fusion 
+
+[[Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)]
 
 ### 2026
 
