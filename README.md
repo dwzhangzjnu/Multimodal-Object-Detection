@@ -198,6 +198,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "CCSFuse: Collaborative Compensation and Selective Fusion for UAV-Based RGB-IR Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11311541)] [[code](https://github.com/ZhangT-xxl/CCSFuse)]
 
+- **TCFNet:** Mingxing Li; Jinli Zhang; Yongzhe Zhang; Jian Yang; Mark Dras; Anton Van Den Hengel.
+   "A Tri-branch Cascaded Context-aware Fusion Network for Multispectral Object Detection in Remote Sensing." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11580361)] [[code]( )]
+  
 - **RSDet:** Tianyi Zhao; Maoxun Yuan; Feng Jiang; Nan Wang; Xingxing Wei.
    "Removal Then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection." TITS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11278552)] [[code](https://github.com/Zhao-Tian-yi/RSDet)]
