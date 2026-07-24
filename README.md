@@ -182,6 +182,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Dual Sparse Aggregation Transformer for Multispectral Object Detection." TCSVT (2026).
   [[paper](https://arxiv.org/abs/2606.31015)] [[code](https://github.com/WenCongWu/DSAFormer)]
 
+- **HPHF-MMDet:** Guohua Lv; Zhengyang Zhang; Guangxiao Ma; Yongbiao Gao; Jihao Jin; Qian Xu.
+   "HPHF-MMDet: Heterogeneous Perception and Hyperspherical Fusion for Multimodal Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11556329)] [[code](https://github.com/zzyadad/HPHF-MMDet)]
+  
+- **CMKD-net:** Yifan Xi; Ting Lu; Jiacheng Lu; Xudong Kang; Shutao Li.
+   "Cross-Modal Knowledge Distillation for Oriented Object Detection in Modality Missing Visible-Infrared Images." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11421346)] [[code]( )]
+
 - **CBBS:** Yan Zhang; Wen Yang; Chang Xu; Qian Hu; Fang Xu; Gui-Song Xia.
    "Learning to Correct Cross-Modality Bounding Box Shifts in Drone-Based RGBT Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11505948)] [[code]( )]
