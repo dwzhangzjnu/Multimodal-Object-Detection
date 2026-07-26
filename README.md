@@ -198,6 +198,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Modality-Guided Feature Alignment and Complementary Enhancement for Infrared-Visible Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11534533)] [[code](https://github.com/w-o-w-1/AlCE-FusionNet)]
 
+- **D2E2-Det:** Haodong Li; Yan Gong; Xinyu Zhang; Ziying Song; Xiaoxi Hu; Haicheng Qu.
+   "When RGB Meets IR: Orthogonal Disentanglement and Dual-Expert Enhancement for Day-to-Night Aerial Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11613998)] [[code](https://github.com/HL202604/D2E2-Det)]
+
 - **CMFADet:** Chushi Yu; Yoan Shin.
    "A Cross-Modality Feature Adaptive Interaction Approach for RGB-Infrared Object Detection in Aerial Imagery." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363305)] [[code](https://github.com/Yooyoo95/CMFADet)]
