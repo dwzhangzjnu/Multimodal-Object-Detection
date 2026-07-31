@@ -11,6 +11,8 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 \- [RGBT Object Detection](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#RGBT-Object-Detection)
 
+\- [RGBE Object Detection](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#RGBE-Object-Detection)
+
 \- [Visible-Infrared Image Fusion ](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#Visible-Infrared-Image-Fusion )
 
 
@@ -462,6 +464,45 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Cross-Modality Fusion Transformer for Multispectral Object Detection." arXiv (2022).
   [[paper](https://arxiv.org/abs/2111.00273)] [[code](https://github.com/DocF/multispectral-object-detection)]
   
+
+
+## RGBE Object Detection 
+
+
+### 2026
+
+- **SPFD:** Keyao Wang, Shuai Liu, Hengda Shi, Lukui Shi, Haiyong Chen.
+   "Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Beyond_Duality_A_Hybrid_Framework_of_Leveraging_Shared_and_Private_CVPR_2026_paper.html)] [[code](https://github.com/git-KeYw/SPFD)]
+
+- **SSLA:** Haiqing Hao, Zhipeng Sui, Rong Zou, Zijia Dai, Nikola ZubiÄ‡, Davide Scaramuzza, Wenhui Wang.
+   "Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2603.06228)] [[code](https://github.com/haohq19/ssla)]
+  
+- **Hyper-FEOD:** Wei Bao, Yuehan Wang, Tianhang Zhou, Siqi Li.
+   "Hyper-FEOD: Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.11140)] [[code]( )]
+  
+- **Ev-DTAD:** Meisen Wang, Hao Deng, Wei Bao, Chengjie Wang, Zhiqiang Tian, Shaoyi Du, Siqi Li, Yue Gao.
+   "Rethinking Event-Based Object Detection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.08825)] [[code](https://github.com/meisenwang/Ev-DTAD)]
+
+- **Sequence-SOD:** Katharina Bendig, RenÃ© Schuster, Didier Stricker.
+   "Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras." Cognitive Computation (2026).
+  [[paper](https://arxiv.org/abs/2607.26703)] [[code]( )]
+  
+### 2025
+
+- **EvRT-DETR:** Dmitrii Torbunov, Yihui Ren, Animesh Ghose, Odera Dim, Yonggang Cui.
+   "EvRT-DETR: Latent Space Adaptation of Image Detectors for Event-based Vision." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2412.02890)] [[code](https://github.com/realtime-intelligence/evrt-detr)]
+
+### 2024
+
+- **SpikeYOLO:** Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li.
+   "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.20708)] [[code](https://github.com/BICLab/SpikeYOLO)]
+
 
 
 ## Visible-Infrared Image Fusion 
