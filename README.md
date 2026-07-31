@@ -50,6 +50,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models." ECCV (2026).
   [[paper](https://arxiv.org/abs/2510.25257)] [[code](https://github.com/RT-DETRs/RT-DETRv4)]
 
+- **RiO-DETR:** Zhangchi Hu, Yifan Zhao, Yansong Peng, Wenzhang Sun, Xiangchen Yin, Jie Chen, Peixi Wu, Hebei Li, Xinghao Wang, Dongsheng Jiang, Xiaoyan Sun.
+   "RiO-DETR: DETR for Real-time Oriented Object Detection." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2603.09411)] [[code](https://github.com/RicePasteM/RiO-DETR)]
+  
 - **LoRA-DETR:** Yiwei Zhang, Jin Gao, Hanshi Wang, Fudong Ge, Guan Luo, Weiming Hu, Zhipeng Zhang.
    "Integrating Diverse Assignment Strategies into DETRs." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.09247)] [[code](https://github.com/Z1zyw/LoRA-DETR)]
@@ -65,6 +69,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
    "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
+
+- **DEIMv2:** Shihua Huang, Yongjie Hou, Longfei Liu, Xuanlong Yu, Xi Shen.
+   "Real-Time Object Detection Meets DINOv3." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2509.20787)] [[code](https://github.com/Intellindust-AI-Lab/DEIMv2)]
   
 - **DEIM:** Shihua Huang, Zhichao Lu, Xiaodong Cun, Yongjun Yu, Xiao Zhou, Xi Shen.
    "DEIM: DETR with Improved Matching for Fast Convergence." CVPR (2025).
