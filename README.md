@@ -116,8 +116,28 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 ### 2026
 
 - **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.
-   "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv (2026).
+   "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV (2026).
   [[paper](https://arxiv.org/abs/2512.24561)] [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
+
+- **DroneFINE:** Ke Wu, Yanan Zhang, Yingjie Gao, Wenhao Li, Chenyu Zhou, XinZhu Ma, Jiaxin Chen, Di Huang.
+   "DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.00338)] [[code]( )]
+  
+- **MoDA:** Wayner Barrios, AndrÃ©s Villa, Juan LeÃ³n AlcÃ¡zar, SouYoung Jin, Bernard Ghanem.
+   "MoDA: Modulation Adapter for Fine-Grained Visual Grounding in Instructional MLLMs." ICML (2026).
+  [[paper](https://arxiv.org/abs/2506.01850)] [[code](https://github.com/waybarrios/MoDA)]
+
+- **Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Yueyi Sun, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.
+   "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2501.04001)] [[code](https://github.com/bytedance/Sa2VA)]
+
+- **MTRAG:** Yili Ren; Jinyang Du; Xi Liu; Qianxiao Su; Yue Deng; Hongjue Li.
+   "MTRAG: Multi-Target Referring and Grounding via Hybrid Semantic-Spatial Integration." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11397268)] [[code](https://github.com/deng-ai-lab/MTRAG)]
+  
+- **OneSVG:** Liangtao Shi; Ting Liu; Jinxia Xie; Ning Li; Bineng Zhong; Richang Hong.
+   "Text-guided Vision Token Reduction with Low-rank Adaptation for Efficient Visual Grounding." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11482608)] [[code](https://github.com/ltShi/OneSVG)]
 
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
@@ -127,12 +147,59 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
 
+- **RSVG-ZeroOV:** Ke Li, Di Wang, Yongshan Zhu, Ting Wang, Weiping Ni, Tao Lei, Quan Wang, Xinbo Gao.
+   "Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.16124)] [[code]( )]
+  
   
 ### 2025
 
 - **VG-Survey:** Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu.
    "Towards Visual Grounding: A Survey." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2412.20206)] [[code](https://github.com/linhuixiao/Awesome-Visual-Grounding)]
+
+- **ReferDINO:** Tianming Liang, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu.
+   "ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2501.14607)] [[code](https://github.com/iSEE-Laboratory/ReferDINO)]
+
+- **Dynamic-DINO:** Yehao Lu, Minghe Weng, Zekang Xiao, Rui Jiang, Wei Su, Guangcong Zheng, Ping Lu, Xi Li.
+   "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.17436)] [[code](https://github.com/wengminghe/Dynamic-DINO)]
+
+- **VRT:** Haobo Yuan, Yueyi Sun, Yanwei Li, Tao Zhang, Xueqing Deng, Henghui Ding, Lu Qi, Anran Wang, Xiangtai Li, Ming-Hsuan Yang.
+   "Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.05091)] [[code](https://github.com/bytedance/Sa2VA/tree/main/projects/vrt_sa2va)]
+
+- **PAML:** Jiangnan Xie, Xiaolong Zheng, Liang Zheng.
+   "Prototype-Aware Multimodal Alignment for Open-Vocabulary Visual Grounding." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.06291)] [[code](https://github.com/plankXie/PAML)]
+  
+  
+### 2024 and Before
+
+- **Grounding DINO:** Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Qing Jiang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.
+   "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2303.05499)] [[code](https://github.com/idea-research/groundingdino)]
+
+- **GLaMM:** Hanoona Rasheed, Muhammad Maaz, Sahal Shaji Mullappilly, Abdelrahman Shaker, Salman Khan, Hisham Cholakkal, Rao M. Anwer, Erix Xing, Ming-Hsuan Yang, Fahad S. Khan.
+   "GLaMM: Pixel Grounding Large Multimodal Model." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2311.03356)] [[code](https://github.com/mbzuai-oryx/groundingLMM)]
+
+- **LLaVA-1.5:** Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee.
+   "Improved Baselines with Visual Instruction Tuning." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2310.03744)] [[code](https://github.com/haotian-liu/LLaVA)]
+  
+- **LLaVA:** Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.
+   "Visual Instruction Tuning." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2304.08485)] [[project](https://llava-vl.github.io/)] [[code](https://github.com/haotian-liu/LLaVA)]
+  
+- **OV-DINO:** Hao Wang, Pengzhen Ren, Zequn Jie, Xiao Dong, Chengjian Feng, Yinlong Qian, Lin Ma, Dongmei Jiang, Yaowei Wang, Xiangyuan Lan, Xiaodan Liang.
+   "OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.07844)] [[code](https://github.com/wanghao9610/OV-DINO)]
+
+- **OV-VG:** Chunlei Wang, Wenquan Feng, Xiangtai Li, Guangliang Cheng, Shuchang Lyu, Binghao Liu, Lijiang Chen, Qi Zhao.
+   "OV-VG: A Benchmark for Open-Vocabulary Visual Grounding." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.14374)] [[code](https://github.com/cv516Buaa/OV-VG)]
 
   
   
@@ -157,10 +224,6 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **SFEDet:** Chao Tian, Zikun Zhou, Chao Yang, Guoqing Zhu, Zhenyu He.
    "Efficient RGB-T Object Detection via Sparse Cross-Modality Fusion." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.30215)] [[code]( )]
-
-- **DroneFINE:** Ke Wu, Yanan Zhang, Yingjie Gao, Wenhao Li, Chenyu Zhou, XinZhu Ma, Jiaxin Chen, Di Huang.
-   "DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images." ECCV (2026).
-  [[paper](https://arxiv.org/abs/2607.00338)] [[code]( )]
   
 - **InfraNet:** Zichao Feng, Haodong Zhu, Jingying Yang, Sheng Xu, Yangyang Ren, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, Linlin Yang, Baochang Zhang.
    "InfraNet: Quality-Aware RGB Guidance for Efficient Infrared Object Detection." ECCV (2026).
