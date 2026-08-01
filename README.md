@@ -1,19 +1,19 @@
-# RGB-Infrared Object Detection Papers
+# Multimodal Object Detection Papers
 
-A collection of advanced RGB-Infrared object detection. 
+A collection of advanced multimodal object detection. 
 
 If you have any suggestions, please feel free to contact me. Keep updating....ðŸš€
 
 
 ## Table of Contents
 
-\- [Object-Detection](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#Object-Detection)
+\- [Object-Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Object-Detection)
 
-\- [RGBT Object Detection](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#RGBT-Object-Detection)
+\- [RGB-IR Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#RGB-IR-Object-Detection)
 
-\- [RGBE Object Detection](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#RGBE-Object-Detection)
+\- [RGB-Event Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#RGB-Event-Object-Detection)
 
-\- [Visible-Infrared Image Fusion ](https://github.com/dwzhangzjnu/RGB-Infrared-Object-Detection#Visible-Infrared-Image-Fusion )
+\- [Visible-Infrared Image Fusion ](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Visible-Infrared-Image-Fusion )
 
 
 ## Object Detection 
@@ -55,6 +55,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **RiO-DETR:** Zhangchi Hu, Yifan Zhao, Yansong Peng, Wenzhang Sun, Xiangchen Yin, Jie Chen, Peixi Wu, Hebei Li, Xinghao Wang, Dongsheng Jiang, Xiaoyan Sun.
    "RiO-DETR: DETR for Real-time Oriented Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.09411)] [[code](https://github.com/RicePasteM/RiO-DETR)]
+
+- **FSDC-DETR:** Aiwen Liu, Chengguang Zhu, Gang Wang, Dandan Zhu, Haodong Lin, Yan Wang, Huiyu Zhou, Zhengyi Pan.
+   "FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.05176)] [[code](https://github.com/nevereverinsomnia/FSDC-DETR)]
   
 - **LoRA-DETR:** Yiwei Zhang, Jin Gao, Hanshi Wang, Fudong Ge, Guan Luo, Weiming Hu, Zhipeng Zhang.
    "Integrating Diverse Assignment Strategies into DETRs." AAAI (2026).
@@ -106,7 +110,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   
   
 
-## RGBT Object Detection 
+## RGB-IR Object Detection 
 
 [[Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)]
 
@@ -466,7 +470,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   
 
 
-## RGBE Object Detection 
+## RGB-Event Object Detection 
 
 
 ### 2026
