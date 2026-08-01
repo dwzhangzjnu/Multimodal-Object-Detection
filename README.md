@@ -7,7 +7,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 ## Table of Contents
 
-\- [Object-Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Object-Detection)
+\- [Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Object-Detection)
 
 \- [Visual Grounding](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Visual-Grounding)
 
