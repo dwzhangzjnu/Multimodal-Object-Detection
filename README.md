@@ -9,6 +9,8 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 \- [Object-Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Object-Detection)
 
+\- [Visual Grounding](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Visual-Grounding)
+
 \- [RGB-IR Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#RGB-IR-Object-Detection)
 
 \- [RGB-Event Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#RGB-Event-Object-Detection)
@@ -72,10 +74,6 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery." arXiv (2025).
   [[paper](https://arxiv.org/abs/2501.01855)] [[code](https://github.com/ValiantDiligent/UAV-DETR)]
 
-- **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
-   "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
-
 - **DEIMv2:** Shihua Huang, Yongjie Hou, Longfei Liu, Xuanlong Yu, Xi Shen.
    "Real-Time Object Detection Meets DINOv3." arXiv (2026).
   [[paper](https://arxiv.org/abs/2509.20787)] [[code](https://github.com/Intellindust-AI-Lab/DEIMv2)]
@@ -108,8 +106,36 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "End-to-End Object Detection with Transformers." ECCV (2020).
   [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
   
-  
 
+  
+## Visual Grounding 
+
+[[Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding)]
+
+
+### 2026
+
+- **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.
+   "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2512.24561)] [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
+
+- **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.
+   "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
+
+- **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
+   "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
+
+  
+### 2025
+
+- **VG-Survey:** Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu.
+   "Towards Visual Grounding: A Survey." TPAMI (2025).
+  [[paper](https://arxiv.org/abs/2412.20206)] [[code](https://github.com/linhuixiao/Awesome-Visual-Grounding)]
+
+  
+  
 ## RGB-IR Object Detection 
 
 [[Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)]
@@ -279,10 +305,6 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
  - **FMAF-YOLO:** Zhengju Jia, Ming Hui, Jinshu Huang, Zufeng Fu, Tingxiao Pan and Jinghong Yao.
    "FMAF-YOLO: fine-grained multi-modal adaptive fusion network for multispectral object detection." MST (2026).
   [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ae73a0)] [[code](https://github.com/JZJ1217/FMAF-YOLO)]
-
-- **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.
-   "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2512.24561)] [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
 
 - **SLGNet:** Xiantai Xiang, Guangyao Zhou, Zixiao Wen, Wenshuai Li, Ben Niu, Feng Wang, Lijia Huang, Qiantong Wang, Yuhan Liu, Zongxu Pan, Yuxin Hu.
    "SLGNet: Synergizing Structural Priors and Language-Guided Modulation for Multimodal Object Detection." arXiv (2026).
