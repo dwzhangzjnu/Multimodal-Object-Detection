@@ -316,6 +316,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **TCFNet:** Mingxing Li; Jinli Zhang; Yongzhe Zhang; Jian Yang; Mark Dras; Anton Van Den Hengel.
    "A Tri-branch Cascaded Context-aware Fusion Network for Multispectral Object Detection in Remote Sensing." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11580361)] [[code]( )]
+
+- **SCFNet:** Fulin Luo; Yan Guan; Chuan Fu; Tan Guo; Zhixiong Nan; Tao Xiang.
+   "SCFDet: Selective Cross-modal Fusion Network for RGB-Infrared Object Detection in Remote Sensing." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11626161)] [[code]( )]
   
 - **RSDet:** Tianyi Zhao; Maoxun Yuan; Feng Jiang; Nan Wang; Xingxing Wei.
    "Removal Then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection." TITS (2026).
