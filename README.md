@@ -575,6 +575,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Hyper-FEOD:** Wei Bao, Yuehan Wang, Tianhang Zhou, Siqi Li.
    "Hyper-FEOD: Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11140)] [[code]( )]
+
+- **AERODet:** Ziheng Wang, Chaolang Li, Yutong Yang, Xiaohan Xu, Chongxiang Yang, Hengxuan Zhong, Zhen Liang, Pengwen Dai.
+   "Beyond Symmetric Fusion: Exploiting Task-Dependent Modality Strengths for RGB-Event Small Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.01302)] [[code]( )]
   
 - **Ev-DTAD:** Meisen Wang, Hao Deng, Wei Bao, Chengjie Wang, Zhiqiang Tian, Shaoyi Du, Siqi Li, Yue Gao.
    "Rethinking Event-Based Object Detection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning." arXiv (2026).
