@@ -261,10 +261,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Dual-Correlation Hypergraph Network for Unaligned RGBT Video Object Detection and A Large-scale Benchmark." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.08191)] [[code](https://github.com/tzz-ahu/)]
 
+- **MCDANet:** Zhengzheng Tu, Chuanwang Guo, Qishun Wang, Chenglong Li, Jin Tang.
+   "Multi-graph Cross Diffusion Attention Network for Alignment-free RGBT Video Object Detection." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02975-0)] [[code](https://github.com/tzz-ahu/MCDANet)]
+
 - **IPTNet:** Zhengzheng Tu, Chuanwang Guo, Qishun Wang, Chenglong Li, Jin Tang.
    "ImageBind Guided Progressive Transformation Network for Alignment-free RGBT Video Object Detection." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02935-8)] [[code]( )]
-
+  
 - **AFFNet:** Zhanyan Tang; Zhihao Wu; Mu Li; Jie Wen; Bob Zhang; Yong Xu.
    "Adaptive Fine-Grained Fusion Network for Multimodal UAV Object Detection." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11393654)] [[code](https://github.com/lingf5877/AFFNet)]
