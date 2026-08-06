@@ -385,10 +385,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
 
+- **RegisterBridgeMM:** Zian Wang, Hangchuan Liang, Yuehua Chen, Changchun Li, Chaoyi Guo, Mingzhe Liu, Fangming Gu.
+   "RegisterBridgeMM: A Register-Centric Framework for RGB-Infrared Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.04833)] [[code]( )] 
+
 - **LER-YOLO:** Liming Hou, Yueping Peng, Hexiang Hao, Ji Wang, Xuekai Zhang, Wei Tang, Zecong Ye, Xin Ying, Yubo He.
    "LER-YOLO: Reliability-Aware Expert Routing for Misaligned RGB-Infrared UAV Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20667)] [[code]( )]
-
+  
 - **SAFER-DEIM:** Yefeng Wu.
    "Reusing Fusion-Time Spectral Reliability for Adaptive Fusion and Expert Routing in RGB-Infrared Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.01173)] [[code]( )]
