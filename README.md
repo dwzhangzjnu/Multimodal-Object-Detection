@@ -122,6 +122,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ü
 - **DroneFINE:** Ke Wu, Yanan Zhang, Yingjie Gao, Wenhao Li, Chenyu Zhou, XinZhu Ma, Jiaxin Chen, Di Huang.
    "DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.00338)] [[code]( )]
+
+- **HSA-DINO:** Weihao Cao, Runqi Wang, Xiaoyue Duan, Jinchao Zhang, Ang Yang, Liping Jing.
+   "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.04444)] [[code](https://github.com/jokercao6/HSA-DINO)]
   
 - **MoDA:** Wayner Barrios, Andr√©s Villa, Juan Le√≥n Alc√°zar, SouYoung Jin, Bernard Ghanem.
    "MoDA: Modulation Adapter for Fine-Grained Visual Grounding in Instructional MLLMs." ICML (2026).
@@ -392,6 +396,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ü
 - **LER-YOLO:** Liming Hou, Yueping Peng, Hexiang Hao, Ji Wang, Xuekai Zhang, Wei Tang, Zecong Ye, Xin Ying, Yubo He.
    "LER-YOLO: Reliability-Aware Expert Routing for Misaligned RGB-Infrared UAV Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20667)] [[code]( )]
+
+- **CFGPNet:** Nima Hatami, Karim Faez, Saeed Sharifian, Hamidreza Amindavar.
+   "CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.06205)] [[code](https://github.com/NimaHatami99/CFGPNet)]
   
 - **SAFER-DEIM:** Yefeng Wu.
    "Reusing Fusion-Time Spectral Reliability for Adaptive Fusion and Expert Routing in RGB-Infrared Object Detection." arXiv (2026).
