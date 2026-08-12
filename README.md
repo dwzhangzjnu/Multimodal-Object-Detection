@@ -393,6 +393,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RegisterBridgeMM: A Register-Centric Framework for RGB-Infrared Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.04833)] [[code]( )] 
 
+- **JFRDet:** Qi Ming, Yuyang Wang, Mingjing Zhao, Yifan Xiao, Zhixin Guo, Zhiqiang Zhou, Peng Sun, Juan Fang, Fuqiang Yang, Xudong Zhao.
+   "Bridging Severe Cross-Modal Misalignment: End-to-End Visible-Infrared Object Detection via Explicit Feature-Domain Affine Registration." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.10680)] [[code]( )]
+  
 - **LER-YOLO:** Liming Hou, Yueping Peng, Hexiang Hao, Ji Wang, Xuekai Zhang, Wei Tang, Zecong Ye, Xin Ying, Yubo He.
    "LER-YOLO: Reliability-Aware Expert Routing for Misaligned RGB-Infrared UAV Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20667)] [[code]( )]
@@ -506,6 +510,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DiffIVF:** Shijie Zhao, Siyu Hu, Anjie Peng, Zhenyu Liang, Hui Zeng, Xing Yang.
    "DiffIVF: Infrared-Visible Image Fusion via Diffusion Models for Object Detection." PRCV (2025).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_31)] [[code](https://github.com/JieZhaoxiao/DiffIVF)]
+
+- **AlignFreeNet:** Dingkun Zhu, Haote Zhang, Lipeng Gu, Wuzhou Quan, Fu Lee Wang, Honghui Fan, Jiali Tang, Haoran Xie, Xiaoping Zhang, Mingqiang Wei.
+   "AlignFreeNet: Is Cross-Modal Pre-Alignment Necessary? An End-to-End Alignment-Free Lightweight Network for Visible-Infrared Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.20146)] [[code]( )]
 
 - **DOD-SA:** Hang Jin, Chenqiang Gao, Junjie Guo, Fangcen Liu, Kanghui Tian, Qinyao Chang.
    "DOD-SA: Infrared-Visible Decoupled Object Detection with Single-Modality Annotations." arXiv (2025).
