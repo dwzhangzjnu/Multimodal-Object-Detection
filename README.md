@@ -143,10 +143,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Text-guided Vision Token Reduction with Low-rank Adaptation for Efficient Visual Grounding." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11482608)] [[code](https://github.com/ltShi/OneSVG)]
 
+- **ConCor-1:** Jieyu Zhang, Ziqi Gao, Luke Zettlemoyer, Ranjay Krishna.
+   "Vision-Language Grounding as Bidirectional Concept Correspondence." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.07886)] [[code](https://uwgzq.github.io/papers/ConCor-1/)]
+
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
-
+  
 - **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
    "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
@@ -639,7 +643,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **CtrlFuse:** Yiming Sun, Yuan Ruan, Qinghua Hu, Pengfei Zhu.
    "CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.08619)] [[code](https://github.com/Sevryy/CtrlFuse)]
-  
+
+- **USCFNet:** Cheng Zhao; Tianyun Song; Zhiliang Wu; Tianfu Wang; Moncef Gabbouj; Guanghui Yue.
+   "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
+
 - **IAS:** Qiwei Ma, Bin Deng, Junjie Zhu, Qiangjuan Huang, Puhong Duan, Ke Yang, Xudong Kang, Shutao Li.
    "Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20238)] [[code](https://github.com/KlayMa527/IAS)]
