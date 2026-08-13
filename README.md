@@ -225,6 +225,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.19942)] [[project](https://unique-chan.github.io/G-MAD-Project/)] [[code](https://github.com/unique-chan/G-MAD)]
 
+- **ProtoHGF:** Xiangqi Chen, Xiuling Zhang, Chengzhuan Yang, Li Zhao, Dawei Zhang, Yanchao Wang, Liyuan Chen, Hua Wang, Hao Peng, Zhonglong Zheng.
+   "ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.11595)] [[code](https://github.com/ZiMo-Chen/ProtoHGF)]
+  
 - **FressDet:** Peng Zhang, Tingfa Xu, Shuaihao Han, Jianan Li.
    "Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.05148)] [[code](https://github.com/Riiluo/FressDet)]
@@ -397,10 +401,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
 
+- **EGM-Det:** Cunzheng Fan, Dawei Yan, Guanlin Wang, Xingshuo Yang, Yupeng Jia, Jing Yang, Haokui Zhang.
+   "EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.11685)] [[code]( )] 
+
 - **RegisterBridgeMM:** Zian Wang, Hangchuan Liang, Yuehua Chen, Changchun Li, Chaoyi Guo, Mingzhe Liu, Fangming Gu.
    "RegisterBridgeMM: A Register-Centric Framework for RGB-Infrared Object Detection." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2608.04833)] [[code]( )] 
-
+  [[paper](https://arxiv.org/abs/2608.04833)] [[code]( )]
+  
 - **JFRDet:** Qi Ming, Yuyang Wang, Mingjing Zhao, Yifan Xiao, Zhixin Guo, Zhiqiang Zhou, Peng Sun, Juan Fang, Fuqiang Yang, Xudong Zhao.
    "Bridging Severe Cross-Modal Misalignment: End-to-End Visible-Infrared Object Detection via Explicit Feature-Domain Affine Registration." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.10680)] [[code]( )]
