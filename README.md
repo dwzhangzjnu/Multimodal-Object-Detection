@@ -300,6 +300,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **HPHF-MMDet:** Guohua Lv; Zhengyang Zhang; Guangxiao Ma; Yongbiao Gao; Jihao Jin; Qian Xu.
    "HPHF-MMDet: Heterogeneous Perception and Hyperspherical Fusion for Multimodal Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11556329)] [[code](https://github.com/zzyadad/HPHF-MMDet)]
+
+- **FAE-Det:** Jie Li; Chenhong Sui; Yu Meng; Bing Zhang; Gemine Vivone; Jun Zhou.
+   "FAE-Det: Frequency-Aware Enhancement Network for Infrared-Visible Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11653382)] [[code](https://github.com/LJs-Projects/FAE-Det)]
   
 - **CMKD-net:** Yifan Xi; Ting Lu; Jiacheng Lu; Xudong Kang; Shutao Li.
    "Cross-Modal Knowledge Distillation for Oriented Object Detection in Modality Missing Visible-Infrared Images." TCSVT (2026).
