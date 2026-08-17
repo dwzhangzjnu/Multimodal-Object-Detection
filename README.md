@@ -27,6 +27,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ü
    "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection." CVPR (2026).
   [[paper](https://arxiv.org/abs/2512.23273)] [[code](https://github.com/Tencent/YOLO-Master)]
 
+- **YOLOv14:** Jian Lu, Jinling Jia, Jone Yawl, Chenbin Zhang.
+   "YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2608.04720v3)] [[code](https://github.com/zhangcbb/yolov14)]
+  
 - **Ultralytics:** Ranjan Sapkota, Manoj Karkee.
    "Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8 and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition." arXiv (2025).
   [[paper](https://arxiv.org/abs/2510.09653)] [[code](https://github.com/ultralytics/ultralytics)]
@@ -150,6 +154,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ü
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
+
+- **Hi-Token:** Xiuyuan Zhu, Ke Lu, Kun Dong, Siwen Jiao, Hao Wu, Zijin Du, Shun Mao, Dongming Zhang, Jian Xue.
+   "Hi-Token: Hierarchical Coordinate Tokenization for Generative Visual Grounding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.03471)] [[code](https://xyzzzh.github.io/Hi-Token/)]
   
 - **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
    "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
@@ -648,7 +656,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ü
 
 ### 2026
 
-- **IDEAL:** Hao Pan„ÄÅJian Dai„ÄÅYuan Sun„ÄÅZhenwen Ren„ÄÅXingfeng Li.
+- **P2Fusion:** Yi Shi, Huichao Xie, Yuqing Wang, Mingyu Wang, Kaihui Yang, Yu Liu, Ruitao Lu, Lizhe Li, Junwei Han, Dingwen Zhang.
+   "P2Fusion: Prompt-based Progressive Infrared-Visible Image Fusion via Dual-Prior Distillation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2608.13045)] [[code](https://p2fusion.github.io/)]
+
+- **IDEAL:** Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, Xingfeng Li.
    "Difference-Aware Decision Learning for Multimodal Image Fusion." ICML (2026).
   [[paper](https://openreview.net/forum?id=j4E6NstJR4)] [[code](https://github.com/Pon915/IDEAL-main)]
 
