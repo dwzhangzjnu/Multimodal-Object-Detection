@@ -158,6 +158,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Hi-Token:** Xiuyuan Zhu, Ke Lu, Kun Dong, Siwen Jiao, Hao Wu, Zijin Du, Shun Mao, Dongming Zhang, Jian Xue.
    "Hi-Token: Hierarchical Coordinate Tokenization for Generative Visual Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.03471)] [[code](https://xyzzzh.github.io/Hi-Token/)]
+
+- **GrabVG:** Chaowei Wang, Yan Di, Jingjun Sun, Baozhe Liu, Jiaxu Tian, Yuheng Li, Guangqian Guo, Shan Gao.
+   "GrabVG: Graph-Attentive Binding for Visual Grounding in UAV Imagery." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.18996)] [[code]( )]
   
 - **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
    "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
@@ -619,6 +623,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **SSLA:** Haiqing Hao, Zhipeng Sui, Rong Zou, Zijia Dai, Nikola ZubiÄ‡, Davide Scaramuzza, Wenhui Wang.
    "Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.06228)] [[code](https://github.com/haohq19/ssla)]
+
+- **CvHeat-DET:** Lan Chen; Yu Jin; Xiao Wang; Bo Jiang; Lin Zhu; Yonghong Tian.
+   "Dynamic Graph Induced Contour-aware Heat Conduction Network for Event Stream based Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11655927)] [[code](https://github.com/Event-AHU/OpenEvDET)]
   
 - **Hyper-FEOD:** Wei Bao, Yuehan Wang, Tianhang Zhou, Siqi Li.
    "Hyper-FEOD: Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE." arXiv (2026).
@@ -638,6 +646,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   
 ### 2025
 
+- **EvDET200K/MvHeat-DET:** Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian.
+   "Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2412.06647)] [[code](https://github.com/Event-AHU/OpenEvDET)]
+
+- **EV-UAV/EV-SpSegNet:** Nuo Chen, Chao Xiao, Yimian Dai, Shiman He, Miao Li, Wei An.
+   "Event-based Tiny Object Detection: A Benchmark Dataset and Baseline." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2506.23575)] [[code](https://github.com/ChenYichen9527/Ev-UAV)]
+  
 - **EvRT-DETR:** Dmitrii Torbunov, Yihui Ren, Animesh Ghose, Odera Dim, Yonggang Cui.
    "EvRT-DETR: Latent Space Adaptation of Image Detectors for Event-based Vision." ICCV (2025).
   [[paper](https://arxiv.org/abs/2412.02890)] [[code](https://github.com/realtime-intelligence/evrt-detr)]
