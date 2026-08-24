@@ -110,7 +110,12 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "End-to-End Object Detection with Transformers." ECCV (2020).
   [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
   
+### Foundation Model Series
 
+- **SpectraDINO:** Yagiz Nalcakan, Hyeongjin Ju, Incheol Park, Sanghyeop Yeo, Youngwan Jin, Shiho Kim.
+   "SpectraDINO: Modality-Conditioned Adaptation of RGB Vision Foundation Models Across Infrared Bands." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.02258)] [[code]( )]
+  
   
 ## Visual Grounding 
 
@@ -233,6 +238,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 ### 2026
 
+- **SuppreSensing:** Xin Wu, Zhenyu Gao, Qiankun Zhang, Shaoyong Guo.
+   "SuppreSensing: Expert-Guided Feature Recalibration and Discrepancy Augmentation for Multimodal Object Detection." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.20944)] [[code](https://github.com/Victoria-xin1009/SuppreSensing)]
+
 - **G-MAD:** Yechan Kim, JongHyun Park, Dongho Yoon, Namhoon Jung, Moongu Jeon.
    "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2607.19942)] [[project](https://unique-chan.github.io/G-MAD-Project/)] [[code](https://github.com/unique-chan/G-MAD)]
@@ -349,7 +358,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "A Tri-branch Cascaded Context-aware Fusion Network for Multispectral Object Detection in Remote Sensing." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11580361)] [[code]( )]
 
-- **SCFNet:** Fulin Luo; Yan Guan; Chuan Fu; Tan Guo; Zhixiong Nan; Tao Xiang.
+- **SCFDet:** Fulin Luo; Yan Guan; Chuan Fu; Tan Guo; Zhixiong Nan; Tao Xiang.
    "SCFDet: Selective Cross-modal Fusion Network for RGB-Infrared Object Detection in Remote Sensing." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11626161)] [[code]( )]
   
@@ -368,6 +377,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **COMO:** Chang Liu, Xin Ma, Xiaochen Yang, Yuxiang Zhang, Yanni Dong.
    "COMO: Cross-mamba interaction and offset-guided fusion for multimodal object detection." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525004877)] [[code](https://github.com/luluyuu/COMO)]
+
+- **ETFNet:** Thi Lan Nguyen, Cao Truong Tran, Dinh Tan Nguyen.
+   "ETFNet: An efficient transformer-based RGBâ€“IR fusion network for UAV object detection." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526005348)] [[code](https://github.com/lansimtech/ETFNet)]
   
 - **BDDS:** Zhangyong Tang, Youchen Xie, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.
    "Learning Bi-directional fusion and deformation-sensitive loss for RGB-T tiny object detection." INFFUS (2026).
@@ -412,6 +425,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Bridging the RGB-IR Gap:** Jiaqi Wu, Zhen Wang, Enhao Huang, Kangqing Shen, Yulin Wang, Yang Yue, Yifan Pu, Gao Huang.
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
+
+- **A2DINOv3:** Jiekang Feng, Zhihe Fan, Yunqi Zhu, Xinjie Yao, Yueying Zhang, Yike Gao, Ranxin Li, Guanzuo Chen.
+   "A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.21099)] [[code]( )]
 
 - **EGM-Det:** Cunzheng Fan, Dawei Yan, Guanlin Wang, Xingshuo Yang, Yupeng Jia, Jing Yang, Haokui Zhang.
    "EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection." arXiv (2026).
@@ -510,6 +527,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IM-CMDet:** Minchao Luo; Rui Zhao; Shenfu Zhang; Liang Chen; Feng Shao; Xiangchao Meng.
    "IM-CMDet: An Intramodal Enhancement and Cross-Modal Fusion Network for Small Object Detection in UAV Aerial Visible-Infrared Imagery." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11184277)] [[code](https://github.com/RS-Minchao/IM-CMDet)]
+
+- **DHANet:** Xin Wu; Li Wang; Jian Guan; Haoyang Ji; Lianming Xu; Yingyan Hou.
+   "DHANet: Dual-Stream Hierarchical Interaction Networks for Multimodal Drone Object Detection." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11030749)] [[code](https://github.com/Victoria-xin1009/-IEEE_TGRS_DHANet)]
 
 - **MGFF:** Xiangqi Chen; Shan Jin; Li Zhao; Chengzhuan Yang; Dawei Zhang; Xiao Wang, Hua Wang, Zhonglong Zheng.
    "Mask-Guided Frequency Feature Fusion for Visibleâ€“Infrared Remote Sensing Object Detection." TGRS (2025).
