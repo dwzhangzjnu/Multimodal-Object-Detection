@@ -709,6 +709,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
 
+- **HP-UniIF:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
+   "HP-UniIF: Hierarchical Prompt Learning for Unified Image Fusion." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.21786)] [[code]( )]
+  
 - **IAS:** Qiwei Ma, Bin Deng, Junjie Zhu, Qiangjuan Huang, Puhong Duan, Ke Yang, Xudong Kang, Shutao Li.
    "Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20238)] [[code](https://github.com/KlayMa527/IAS)]
