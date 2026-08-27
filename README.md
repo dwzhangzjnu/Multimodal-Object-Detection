@@ -686,6 +686,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   [[paper](https://arxiv.org/abs/2407.20708)] [[code](https://github.com/BICLab/SpikeYOLO)]
 
 
+## RGB-Sonar Object Detection 
+
+### 2026
+
+- **RSFusionDet:** Zhuoyan Liu, Yihan Wang, Bo Wang, Bing Wang, Ye Li.
+   "RSFusionDet: Underwater RGB-Sonar Multimodal Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.25367)] [[code](https://github.com/LEFTeyex/RSFusionDet)]
+  
 
 ## Visible-Infrared Image Fusion 
 
