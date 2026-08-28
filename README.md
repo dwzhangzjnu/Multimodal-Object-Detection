@@ -132,6 +132,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.00338)] [[code]( )]
 
+- **CODE:** Hao Xu, Zhaoning Shi, Hehe Jin, Bo Ma.
+   "CODE: Cross-Modal Calibration and Dynamic Suppression for Open World Object Detection." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.27214)] [[code]( )]
+
 - **HSA-DINO:** Weihao Cao, Runqi Wang, Xiaoyue Duan, Jinchao Zhang, Ang Yang, Liping Jing.
    "Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.04444)] [[code](https://github.com/jokercao6/HSA-DINO)]
