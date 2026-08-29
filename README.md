@@ -721,6 +721,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
 
+- **DepthNet:** Liangjie Song, Gang Liu, Hanlin Xu, Yiyao Zhao, Gang Xiao, Durga Prasad Bavirisetti.
+   "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
+  
 - **HP-UniIF:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
    "HP-UniIF: Hierarchical Prompt Learning for Unified Image Fusion." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.21786)] [[code]( )]
