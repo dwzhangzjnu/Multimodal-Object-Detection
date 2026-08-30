@@ -318,6 +318,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "PLVAM-DETR: Patch-Level Visibility Aware Multi-spectral Detection Transformer with Frequency Specific Fusion." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11457757)] [[code]( )]
 
+- **MMFD:** Cong Guo; Wenhao Lin; Kan Ren; Qian Chen.
+   "MMFD: Modality-aware and Multi-scale Feature Fusion Network for Multispectral Fusion Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11661708)] [[code](https://github.com/Tracygc/MMFD)]
+  
 - **DWSF-Net:** Fan Yang; Wei Li; Lei Li; Min Yang; Jianwei Zhang.
    "DWSF-Net: A Dynamic Wavelet-based Spatial-frequency Fusion Network for Multispectral Object Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11415366)] [[code]( )]
@@ -721,9 +725,13 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
 
+- **STAFuse:** Ting Lv; Hong Jiang; Yu Liu.
+   "STAFuse: Scene-Text Aggregation-Guided Composite Degradation-Robust Infrared and Visible Image Fusion." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11644823)] [[code]( )]
+  
 - **DepthNet:** Liangjie Song, Gang Liu, Hanlin Xu, Yiyao Zhao, Gang Xiao, Durga Prasad Bavirisetti.
    "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
   
 - **HP-UniIF:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
    "HP-UniIF: Hierarchical Prompt Learning for Unified Image Fusion." arXiv (2026).
