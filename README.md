@@ -144,6 +144,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "MoDA: Modulation Adapter for Fine-Grained Visual Grounding in Instructional MLLMs." ICML (2026).
   [[paper](https://arxiv.org/abs/2506.01850)] [[code](https://github.com/waybarrios/MoDA)]
 
+- **TaSe:** Sojung An, Kwanyong Park, Yong Jae Lee, Donghyun Kim.
+   "Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection." EMNLP (2026).
+  [[paper](https://arxiv.org/abs/2509.24192)] [[code](https://github.com/ssojungan/tase)]
+
 - **Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Yueyi Sun, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.
    "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2501.04001)] [[code](https://github.com/bytedance/Sa2VA)]
@@ -733,10 +737,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
   
-- **HP-UniIF:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
-   "HP-UniIF: Hierarchical Prompt Learning for Unified Image Fusion." arXiv (2026).
+- **UniDiffFusion:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
+   "UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.21786)] [[code]( )]
-  
+
 - **IAS:** Qiwei Ma, Bin Deng, Junjie Zhu, Qiangjuan Huang, Puhong Duan, Ke Yang, Xudong Kang, Shutao Li.
    "Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20238)] [[code](https://github.com/KlayMa527/IAS)]
