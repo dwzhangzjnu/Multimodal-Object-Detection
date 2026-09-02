@@ -32,7 +32,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **YOLOv14:** Jian Lu, Jinling Jia, Jone Yawl, Chenbin Zhang.
    "YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions." arXiv (2025).
   [[paper](https://arxiv.org/abs/2608.04720v3)] [[code](https://github.com/zhangcbb/yolov14)]
-  
+
+- **YOLOv12:** Yunjie Tian, Qixiang Ye, David Doermann.
+   "YOLOv12: Attention-Centric Real-Time Object Detectors." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2502.12524)] [[code](https://github.com/sunsmarterjie/yolov12)]
+
 - **Ultralytics:** Ranjan Sapkota, Manoj Karkee.
    "Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8 and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition." arXiv (2025).
   [[paper](https://arxiv.org/abs/2510.09653)] [[code](https://github.com/ultralytics/ultralytics)]
@@ -117,6 +121,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **SpectraDINO:** Yagiz Nalcakan, Hyeongjin Ju, Incheol Park, Sanghyeop Yeo, Youngwan Jin, Shiho Kim.
    "SpectraDINO: Modality-Conditioned Adaptation of RGB Vision Foundation Models Across Infrared Bands." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.02258)] [[code]( )]
+
+- **DINO-YOLO:** Malaisree P, Youwai S, Kitkobsin T, Janrungautai S, Amorndechaphon D, Rojanavasu P.
+   "DINO-YOLO: Self-Supervised Pre-training for Data-Efficient Object Detection in Civil Engineering Applications." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.25140)] [[code](https://github.com/Sompote/DINOV3-YOLOV12)]
 
 
 ## Visual Grounding 
