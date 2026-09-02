@@ -11,6 +11,8 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 \- [Visual Grounding](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Visual-Grounding)
 
+\- [Infrared Small Targets](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#Infrared-Small-Targets)
+
 \- [RGB-IR Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#RGB-IR-Object-Detection)
 
 \- [RGB-Event Object Detection](https://github.com/dwzhangzjnu/Multimodal-Object-Detection#RGB-Event-Object-Detection)
@@ -115,8 +117,8 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **SpectraDINO:** Yagiz Nalcakan, Hyeongjin Ju, Incheol Park, Sanghyeop Yeo, Youngwan Jin, Shiho Kim.
    "SpectraDINO: Modality-Conditioned Adaptation of RGB Vision Foundation Models Across Infrared Bands." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.02258)] [[code]( )]
-  
-  
+
+
 ## Visual Grounding 
 
 [[Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding)]
@@ -235,14 +237,29 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   [[paper](https://arxiv.org/abs/2310.14374)] [[code](https://github.com/cv516Buaa/OV-VG)]
 
   
+
+## Infrared Small Targets
+
+[[Awesome Infrared Small Targets](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)]
+
+
+### 2026
+
+- **ADGNet:** Tongtong Wang, Mingzhu Xu, Chenglong Yu, Jing Wang, Xiaohui Lin, Weili Guan.
+   "ADGNet: Asymmetric Dual-text Guided Network for Infrared Small Target Detection." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2609.00853)] [[code](https://github.com/iLearn-Lab/MM26-ADGNet)]
+
+- **DGNet:** Chenglong Yu, Mingzhu Xu, Jing Wang, Tongtong Wang, Pingping Miao, Liqiang Nie.
+   "DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2609.00666)] [[code](https://github.com/iLearn-Lab/MM26-DGNet)]
   
+
+
 ## RGB-IR Object Detection 
 
 [[Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)]
 
 [[Multispectral Object Detection](https://github.com/DocF/MOD-ZOO)]
-
-[[Awesome Infrared Small Targets](https://github.com/Tianfang-Zhang/awesome-infrared-small-targets)]
 
 ### 2026
 
