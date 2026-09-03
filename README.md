@@ -491,6 +491,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Reusing Fusion-Time Spectral Reliability for Adaptive Fusion and Expert Routing in RGB-Infrared Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.01173)] [[code]( )]
 
+- **EDL:** Dmitry Golovchits, Seyed Sahand Mohammadi Ziabari, Ali Mohammed Mansoor Alsahag.
+   "Evidential Deep Learning for Multi-Modal Anti-UAV Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.01742)] [[code]( )]
+  
 - **LACE-Det:** "Fusion at the Edge: Misalignment-Tolerant Local Affinity Cross-modality Exchange (LACE) for UAV Infraredâ€“Visible Detection." arXiv (2026).
   [[code](https://github.com/yithong1216/LACE-Det)]
   
