@@ -260,7 +260,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DGNet:** Chenglong Yu, Mingzhu Xu, Jing Wang, Tongtong Wang, Pingping Miao, Liqiang Nie.
    "DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2609.00666)] [[code](https://github.com/iLearn-Lab/MM26-DGNet)]
-  
+
+- **LSP:** Yuanhang Yao, Ping Qian, Zhu Liu, Long Ma, Weimin Wang.
+   "Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7214.pdf)] [[code](https://github.com/yuanhang-yao/semantic-prior)]
 
 
 ## RGB-IR Object Detection 
@@ -462,6 +465,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Bridging the RGB-IR Gap:** Jiaqi Wu, Zhen Wang, Enhao Huang, Kangqing Shen, Yulin Wang, Yang Yue, Yifan Pu, Gao Huang.
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
+
+- **FlexibleFusion:** Yue Zhao, Hua Yu, Yukun Zhao, Yuzhi Zhang, Maoguo Gong, Xin Mei, Zhuping Hu, Yanchi Li, A. K. Qin.
+   "Residual Optimal Transport-Based Experts Collaboration Towards Modality-Aware Infrared-Visible Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.03516)] [[code]( )]
 
 - **A2DINOv3:** Jiekang Feng, Zhihe Fan, Yunqi Zhu, Xinjie Yao, Yueying Zhang, Yike Gao, Ranxin Li, Guanzuo Chen.
    "A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration." arXiv (2026).
@@ -753,6 +760,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **CtrlFuse:** Yiming Sun, Yuan Ruan, Qinghua Hu, Pengfei Zhu.
    "CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.08619)] [[code](https://github.com/Sevryy/CtrlFuse)]
+
+- **SpeciFuse:** Xuan Li, Zhaoming Feng, Xiang Yuan, Huabing Zhou, Jiayi Ma.
+   "SpeciFuse: Learning Degradation-Type Specificity for Robust Infrared and Visible Image Fusion Under Composite Degradations." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3553.pdf)] [[code](https://github.com/xbsj-cool/SpeciFuse)]
 
 - **USCFNet:** Cheng Zhao; Tianyun Song; Zhiliang Wu; Tianfu Wang; Moncef Gabbouj; Guanghui Yue.
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
