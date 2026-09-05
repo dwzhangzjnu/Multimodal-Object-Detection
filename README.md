@@ -450,6 +450,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Balanced multi-modality knowledge mining for RGB-infrared object detection." NN (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025013024)] [[code]( )]
 
+ - **FHCA-Net:** You Ma, Yucheng Zhang, Shihan Mao, Lin Chai, Qingling Wang.
+   "FHCA-Net: Frequency-domain hybrid cross attention network for visible-infrared object detection." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126015509)] [[code]( )]
+
  - **IFCAF:** Zinan Liu, Chunyu Zhu, Yachao Li, Pei Ye.
    "A novel implicit cross-attention framework for RGB-T object detection." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004835)] [[code](https://github.com/chunyuzhu/IFCAF)]
