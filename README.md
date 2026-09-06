@@ -405,6 +405,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **RSDet:** Tianyi Zhao; Maoxun Yuan; Feng Jiang; Nan Wang; Xingxing Wei.
    "Removal Then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection." TITS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11278552)] [[code](https://github.com/Zhao-Tian-yi/RSDet)]
+  
+- **FACEGNet:** Junhua Yan; Yakun Liu; Yan Shi; Ran Tao.
+   "Frequency-Aware and Conditional Entropy-Guided Network for Multispectral Object Detection." JSTARS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11672899)] [[code](https://github.com/noahg2662/FACEGNet)]
 
 - **MS2Fusion:** Jifeng Shen, Haibo Zhan, Shaohua Dong, Xin Zuo, Wankou Yang, Haibin Ling.
    "Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection." INFFUS (2026).
