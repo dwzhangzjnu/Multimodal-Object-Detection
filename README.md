@@ -458,6 +458,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "FHCA-Net: Frequency-domain hybrid cross attention network for visible-infrared object detection." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126015509)] [[code]( )]
 
+ - **GLIM:** Yucheng Zhang, Lin Chai, Jiahao Lai.
+   "GLIM: Efficient Intra-modal Global-Local Feature Extraction and Inter-modal Interaction based on Mamba for Multispectral Object Detection." ASOC (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1568494626017540)] [[code]( )]
+
  - **IFCAF:** Zinan Liu, Chunyu Zhu, Yachao Li, Pei Ye.
    "A novel implicit cross-attention framework for RGB-T object detection." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426004835)] [[code](https://github.com/chunyuzhu/IFCAF)]
