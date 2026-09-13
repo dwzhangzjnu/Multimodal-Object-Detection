@@ -170,6 +170,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Text-guided Vision Token Reduction with Low-rank Adaptation for Efficient Visual Grounding." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11482608)] [[code](https://github.com/ltShi/OneSVG)]
 
+- **TGCADNet:** Fengqian Sun; Deqiang Cheng; Ping Zheng; Tianshu Song; Liangliang Chen; Qiqi Kou.
+   "TGCADNet: Text-Guided Context-Aware Detection via CLIP for Small Objects in UAV Scenes." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11381905)] [[code]( )]
+
 - **ConCor-1:** Jieyu Zhang, Ziqi Gao, Luke Zettlemoyer, Ranjay Krishna.
    "Vision-Language Grounding as Bidirectional Concept Correspondence." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07886)] [[code](https://uwgzq.github.io/papers/ConCor-1/)]
