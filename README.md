@@ -705,6 +705,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.06228)] [[code](https://github.com/haohq19/ssla)]
 
+- **FENET:** Kaiyi Wang; Xinyu Hou; Siying Liu; Chen Cheng; Lei Deng; Hao Guo.
+   "An RGB-Event Hierarchical Fusion Enhancement Network for Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11557375)] [[code](https://github.com/wkydawang/FENET)]
+
 - **CvHeat-DET:** Lan Chen; Yu Jin; Xiao Wang; Bo Jiang; Lin Zhu; Yonghong Tian.
    "Dynamic Graph Induced Contour-aware Heat Conduction Network for Event Stream based Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11655927)] [[code](https://github.com/Event-AHU/OpenEvDET)]
@@ -811,11 +815,24 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Task-driven Image Fusion with Learnable Fusion Loss." CVPR (2025).
   [[paper](https://arxiv.org/abs/2412.03240)] [[code](https://github.com/HaowenBai/TDFusion)]
 
+- **WaveFusion:** Qinghua Wang; Ziwei Li; Shuqi Zhang; Nan Chi; Qionghai Dai.
+   "WaveFusion: A Novel Wavelet Vision Transformer With Saliency-Guided Enhancement for Multimodal Image Fusion." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10918659)] [[code]( )]
+
+  
 ### 2024 and Before
 
 - **IV-Image-Fusion:** Jinyuan Liu; Guanyao Wu; Zhu Liu; Di Wang; Zhiying Jiang; Long Ma.
    "Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption." TPAMI (2024).
   [[paper](https://ieeexplore.ieee.org/document/10812907)] [[code]( )]
+
+- **ITFuse:** Wei Tang, Fazhi He, Yu Liu.
+   "ITFuse: An interactive transformer for infrared and visible image fusion." PR (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324005739)] [[code](https://github.com/tthinking/ITFuse)]
+
+- **DATFuse:** Wei Tang; Fazhi He; Yu Liu; Yansong Duan; Tongzhen Si.
+   "DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer." TCSVT (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10006826)] [[code](https://github.com/tthinking/DATFuse)]
 
 - **MoE-Fusion:** Yiming Sun, Bing Cao, Pengfei Zhu, Qinghua Hu.
    "Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion." ICCV (2023).
