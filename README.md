@@ -398,6 +398,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "CCSFuse: Collaborative Compensation and Selective Fusion for UAV-Based RGB-IR Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11311541)] [[code](https://github.com/ZhangT-xxl/CCSFuse)]
 
+- **D2CMFDet:** Hai Yang; Xingdu Wu; Chenhai Wei; Yunfei Tong; Dan Zhou; Tianyi Zhou.
+   "D2CMFDet: Disparity-Guided Dynamic Cross-modal Mamba Fusion for Multispectral Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11684857)] [[code](https://github.com/jacksonwu09/D2CMFDet)]
+
 - **TCFNet:** Mingxing Li; Jinli Zhang; Yongzhe Zhang; Jian Yang; Mark Dras; Anton Van Den Hengel.
    "A Tri-branch Cascaded Context-aware Fusion Network for Multispectral Object Detection in Remote Sensing." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11580361)] [[code]( )]
