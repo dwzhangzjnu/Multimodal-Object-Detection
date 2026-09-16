@@ -142,6 +142,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.00338)] [[code]( )]
 
+- **SA-OWOD:** HEEJU HAN, AJEONG KIM, Jinsun Park.
+   "Towards Sparsely Annotated Open World Object Detection." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4378)] [[code](https://github.com/HelloHeeju/SA-OWOD)]
+
+- **CoT-PL:** Hojun Choi, Youngsun Lim, Jaeyo Shin, Hyunjung Shim.
+   "CoT-PL: Chain-of-Thought Pseudo-Labeling for Open-Vocabulary Object Detection." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3265)] [[code](https://hchoi256.github.io/projects/mspl/)]
+
 - **CODE:** Hao Xu, Zhaoning Shi, Hehe Jin, Bo Ma.
    "CODE: Cross-Modal Calibration and Dynamic Suppression for Open World Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.27214)] [[code]( )]
@@ -264,6 +272,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DGNet:** Chenglong Yu, Mingzhu Xu, Jing Wang, Tongtong Wang, Pingping Miao, Liqiang Nie.
    "DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2609.00666)] [[code](https://github.com/iLearn-Lab/MM26-DGNet)]
+
+- **SPIRE-IRSTD:** Rixiang Ni, Boyang Li, Jun Chen, Yonghao Li, Feiyu Ren, Yuji Wang, Haoyang Yuan, Wujiao He, Wei An.
+   "Rethinking IRSTD: Single-Point Supervision Guided Encoder-only Framework is Enough for Infrared Small Target Detection." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2604.05363)] [[code](https://github.com/NIRIXIANG/SPIRE-IRSTD)]
+
+- **ECFNet:** Houzhang Fang, Ruixuan Huang, Qiuhuan Chen, Xiaolin Wang, Yi Chang, Luxin Yan.
+   "Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2606.21956)] [[code]( )]
 
 - **LSP:** Yuanhang Yao, Ping Qian, Zhu Liu, Long Ma, Weimin Wang.
    "Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation." IJCAI (2026).
@@ -713,6 +729,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.06228)] [[code](https://github.com/haohq19/ssla)]
 
+- **PACT:** Wen Guo, Fulong Cai, Wuzhou Quan.
+   "Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5799)] [[code]( )]
+
 - **FENET:** Kaiyi Wang; Xinyu Hou; Siying Liu; Chen Cheng; Lei Deng; Hao Guo.
    "An RGB-Event Hierarchical Fusion Enhancement Network for Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11557375)] [[code](https://github.com/wkydawang/FENET)]
@@ -793,14 +813,30 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
 
+- **SBNF:** Shaobing Gao; Minjie Tan; Shun Lv; Yiguang Liu; Yongjie Li.
+   "Infrared and Visible Image Fusion Using Bimodal Neuron and Dynamic Receptive Field Mechanisms." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11511400)] [[code](https://github.com/rwerwer2024/SBNF)]
+
 - **STAFuse:** Ting Lv; Hong Jiang; Yu Liu.
    "STAFuse: Scene-Text Aggregation-Guided Composite Degradation-Robust Infrared and Visible Image Fusion." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644823)] [[code]( )]
-  
+
+- **SpikeVFuse:** Muhang Cheng; Hongwei Mo.
+   "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11673287)] [[code](https://github.com/cmuhang/SpikeVFuse)]
+
+- **ULightIF:** Muhang Cheng; Haiyan Huang; Hongwei Mo.
+   "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11655203)] [[code](https://github.com/cmuhang/ULightIF)]
+
 - **DepthNet:** Liangjie Song, Gang Liu, Hanlin Xu, Yiyao Zhao, Gang Xiao, Durga Prasad Bavirisetti.
    "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
   
+- **CIS-Fuse:** Rui Zhao, Zhuoyuan Li, Wenrui Li, Yanchen Dong, Yajing Zheng, Giuseppe Valenzise, Weisi Lin.
+   "Current Injection Spiking Neural Network for Infrared and Visible Image Fusion." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.19879)] [[code]( )]
+
 - **UniDiffFusion:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
    "UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.21786)] [[code]( )]
