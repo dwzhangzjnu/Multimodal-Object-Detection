@@ -285,6 +285,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7214.pdf)] [[code](https://github.com/yuanhang-yao/semantic-prior)]
 
+- **DISTA-Net++:** Mengze Xu, Zhu Liu, Weidong Sheng, Boyang Li, Yimian Dai, Ming-Ming Cheng, Jian Yang.
+   "DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.18773)] [[code](https://github.com/GrokCV/GrokDet)]
+
 
 ## RGB-IR Object Detection 
 
@@ -521,7 +525,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **JFRDet:** Qi Ming, Yuyang Wang, Mingjing Zhao, Yifan Xiao, Zhixin Guo, Zhiqiang Zhou, Peng Sun, Juan Fang, Fuqiang Yang, Xudong Zhao.
    "Bridging Severe Cross-Modal Misalignment: End-to-End Visible-Infrared Object Detection via Explicit Feature-Domain Affine Registration." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.10680)] [[code]( )]
-  
+
+- **CamoShift:** Yueqi Zhu, Qi Ming, Guo Cheng, Yongkang Zhang, Feiran Liu, Juan Fang, Jiahuan Zhou, Jiangmeng Li, Yuhan Zhang.
+   "Stealthy in Semantics, Antagonistic in Space: Attacking Visible-Infrared Object Detectors via Object-Level Misalignment." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.18133)] [[code]( )]
+
 - **LER-YOLO:** Liming Hou, Yueping Peng, Hexiang Hao, Ji Wang, Xuekai Zhang, Wei Tang, Zecong Ye, Xin Ying, Yubo He.
    "LER-YOLO: Reliability-Aware Expert Routing for Misaligned RGB-Infrared UAV Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20667)] [[code]( )]
