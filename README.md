@@ -182,6 +182,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "TGCADNet: Text-Guided Context-Aware Detection via CLIP for Small Objects in UAV Scenes." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11381905)] [[code]( )]
 
+- **DPNet:** Yanqing Yao; Xiang Yuan; Gong Cheng.
+   "Dual-Path Learning Towards Open-Vocabulary Object Detection in Remote Sensing Images." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11690642)] [[code](https://github.com/yanqingyao1994/DPNet)]
+
 - **ConCor-1:** Jieyu Zhang, Ziqi Gao, Luke Zettlemoyer, Ranjay Krishna.
    "Vision-Language Grounding as Bidirectional Concept Correspondence." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07886)] [[code](https://uwgzq.github.io/papers/ConCor-1/)]
