@@ -426,6 +426,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "D2CMFDet: Disparity-Guided Dynamic Cross-modal Mamba Fusion for Multispectral Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11684857)] [[code](https://github.com/jacksonwu09/D2CMFDet)]
 
+- **FPR-Net:** Yuhao Du; Zhanchao Huang; Junjie Wang; Li Wang; Aiguo Fei.
+   "Mining Heterogeneous Advantages via Feature Purification and Recombination for Multimodal Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11657438)] [[code]( )]
+
 - **TCFNet:** Mingxing Li; Jinli Zhang; Yongzhe Zhang; Jian Yang; Mark Dras; Anton Van Den Hengel.
    "A Tri-branch Cascaded Context-aware Fusion Network for Multispectral Object Detection in Remote Sensing." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11580361)] [[code]( )]
