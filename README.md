@@ -366,6 +366,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "ImageBind Guided Progressive Transformation Network for Alignment-free RGBT Video Object Detection." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02935-8)] [[code]( )]
   
+- **LPANet:** Wentao Wu; Chenglong Li; Xiao Wang; Bin Luo.
+   "Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11568942)] [[code](https://github.com/Vehicle-AHU/LPANet)]
+
 - **AFFNet:** Zhanyan Tang; Zhihao Wu; Mu Li; Jie Wen; Bob Zhang; Yong Xu.
    "Adaptive Fine-Grained Fusion Network for Multimodal UAV Object Detection." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11393654)] [[code](https://github.com/lingf5877/AFFNet)]
@@ -433,6 +437,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **TCFNet:** Mingxing Li; Jinli Zhang; Yongzhe Zhang; Jian Yang; Mark Dras; Anton Van Den Hengel.
    "A Tri-branch Cascaded Context-aware Fusion Network for Multispectral Object Detection in Remote Sensing." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11580361)] [[code]( )]
+
+- **MAMENet:** Kaiyue Men; Chengyou Wang; Xiao Zhou; Zhiliang Qin.
+   "MAMENet: Modal Alignment and Multi-Scale Feature Enhancement Network for RGB-IR Small Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11693063)] [[code]( )]
 
 - **SCFDet:** Fulin Luo; Yan Guan; Chuan Fu; Tan Guo; Zhixiong Nan; Tao Xiang.
    "SCFDet: Selective Cross-modal Fusion Network for RGB-Infrared Object Detection in Remote Sensing." TGRS (2026).
@@ -627,6 +635,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IM-CMDet:** Minchao Luo; Rui Zhao; Shenfu Zhang; Liang Chen; Feng Shao; Xiangchao Meng.
    "IM-CMDet: An Intramodal Enhancement and Cross-Modal Fusion Network for Small Object Detection in UAV Aerial Visible-Infrared Imagery." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11184277)] [[code](https://github.com/RS-Minchao/IM-CMDet)]
+
+- **RGFNet:** Zhicheng Zhao; Wei Zhang; Yun Xiao; Chenglong Li; Jin Tang.
+   "Reflectance-Guided Progressive Feature Alignment Network for All-Day UAV Object Detection." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11017749)] [[code](https://github.com/uavdet/RGFNet)]
 
 - **DHANet:** Xin Wu; Li Wang; Jian Guan; Haoyang Ji; Lianming Xu; Yingyan Hou.
    "DHANet: Dual-Stream Hierarchical Interaction Networks for Multimodal Drone Object Detection." TGRS (2025).
