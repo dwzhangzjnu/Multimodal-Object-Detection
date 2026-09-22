@@ -194,6 +194,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
 
+- **DeCo:** Xiaoqiang Lu, Licheng Jiao, Long Sun, Yuting Yang, Xu Liu, Lingling Li, Wenping Ma, Fang Liu.
+   "DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.24409)] [[code](https://github.com/xiaoqiang-lu/DeCo)]
+  
 - **Hi-Token:** Xiuyuan Zhu, Ke Lu, Kun Dong, Siwen Jiao, Hao Wu, Zijin Du, Shun Mao, Dongming Zhang, Jian Xue.
    "Hi-Token: Hierarchical Coordinate Tokenization for Generative Visual Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.03471)] [[code](https://xyzzzh.github.io/Hi-Token/)]
