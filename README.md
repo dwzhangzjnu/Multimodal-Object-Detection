@@ -29,6 +29,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection." CVPR (2026).
   [[paper](https://arxiv.org/abs/2512.23273)] [[code](https://github.com/Tencent/YOLO-Master)]
 
+- **C2FXNet:** Tianle Fang, Zhenbing Liu, Chong Yin, Bolun Li, Haoxiang Lu.
+   "C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2609.25693)] [[code](https://github.com/PolarisFTL/C2FXNet)]
+
 - **YOLOv14:** Jian Lu, Jinling Jia, Jone Yawl, Chenbin Zhang.
    "YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions." arXiv (2025).
   [[paper](https://arxiv.org/abs/2608.04720v3)] [[code](https://github.com/zhangcbb/yolov14)]
@@ -205,16 +209,32 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **GrabVG:** Chaowei Wang, Yan Di, Jingjun Sun, Baozhe Liu, Jiaxu Tian, Yuheng Li, Guangqian Guo, Shan Gao.
    "GrabVG: Graph-Attentive Binding for Visual Grounding in UAV Imagery." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.18996)] [[code]( )]
-  
+
+- **Pro-Bench:** Linus Nwankwo, Muslim Alaran, Christian Rauch, Stanley Chukwuebuka Obilikpa, Elmar Rueckert.
+   "Pro-Bench: Prompt-Robust Open-Vocabulary Visual Grounding Across Real-World Heterogeneous Environments." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.27076)] [[code](https://pro-bench.github.io/)]
+
 - **OTA-Det:** Guoting Wei, Xia Yuan, Yang Zhou, Haizhao Jing, Yu Liu, Xianbiao Qi, Chunxia Zhao, Haokui Zhang, Rong Xiao.
    "Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.07827)] [[code]( )]
 
+- **O2-VG:** Zeyu Ding, Yong Zhou, Jiaqi Zhao, Wen-Liang Du, Xixi Li, Hancheng Zhu, Rui Yao, Abdulmotaleb El Saddik.
+   "A Unified Framework and Dataset for Oriented Object Visual Grounding in Remote Sensing." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.28230)] [[code](https://github.com/wokaikaixinxin/ai4rs)]
+
+- **OptiSAR-Net++:** Xiaoyu Tang, Jun Dong, Jintao Cheng, Rui Fan.
+   "OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.24876)] [[code](https://github.com/JunDong-dev/OptiSAR-Net-PlusPlus)]
+
+- **AnchorReasoning:** Zhipeng Bao, Wenjie Zhao, Tianle Zhu, Haohua Que, Chence Yang, Geng Yuan, Qianwen Li.
+   "AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.28366)] [[code](https://github.com/JunDong-dev/OptiSAR-Net-PlusPlus)]
+
 - **RSVG-ZeroOV:** Ke Li, Di Wang, Yongshan Zhu, Ting Wang, Weiping Ni, Tao Lei, Quan Wang, Xinbo Gao.
    "Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.16124)] [[code]( )]
-  
-  
+
+
 ### 2025
 
 - **VG-Survey:** Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu.
@@ -525,6 +545,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Bridging the RGB-IR Gap:** Jiaqi Wu, Zhen Wang, Enhao Huang, Kangqing Shen, Yulin Wang, Yang Yue, Yifan Pu, Gao Huang.
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
+
+- **FoCal:** Ben Liang, Chao Sui, Junqi Bai, Yuan Liu, Chunlai Li, Xiubao Sui, Qian Chen.
+   "FoCal: Frequency-Oriented Cross-Modal Interaction and Spectral Calibration for Aerial Visible-Infrared Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.29125)] [[code](https://github.com/universeliang/FoCal)]
 
 - **FlexibleFusion:** Yue Zhao, Hua Yu, Yukun Zhao, Yuzhi Zhang, Maoguo Gong, Xin Mei, Zhuping Hu, Yanchi Li, A. K. Qin.
    "Residual Optimal Transport-Based Experts Collaboration Towards Modality-Aware Infrared-Visible Object Detection." arXiv (2026).
@@ -849,6 +873,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "SpeciFuse: Learning Degradation-Type Specificity for Robust Infrared and Visible Image Fusion Under Composite Degradations." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/3553.pdf)] [[code](https://github.com/xbsj-cool/SpeciFuse)]
 
+- **GText-IF:** Xunpeng Yi; Han Xu; Yibing Zhang; Hao Zhang; Linfeng Tang; Jiayi Ma.
+   "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11647316)] [[code](https://github.com/XunpengYi/GText-IF)]
+
 - **USCFNet:** Cheng Zhao; Tianyun Song; Zhiliang Wu; Tianfu Wang; Moncef Gabbouj; Guanghui Yue.
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
@@ -876,6 +904,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **CIS-Fuse:** Rui Zhao, Zhuoyuan Li, Wenrui Li, Yanchen Dong, Yajing Zheng, Giuseppe Valenzise, Weisi Lin.
    "Current Injection Spiking Neural Network for Infrared and Visible Image Fusion." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.19879)] [[code]( )]
+
+- **Diff-RF:** Xunpeng Yi, Zaixi Du, Qinglong Yan, Yibing Zhang, Han Xu, Jiayi Ma.
+   "Diff-RF: Mutually Reinforced Image Registration and Fusion via Degradation-Aware Learning." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.28235)] [[code](https://github.com/XunpengYi/Diff-RF)]
 
 - **UniDiffFusion:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
    "UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion." arXiv (2026).
@@ -909,6 +941,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IV-Image-Fusion:** Jinyuan Liu; Guanyao Wu; Zhu Liu; Di Wang; Zhiying Jiang; Long Ma.
    "Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption." TPAMI (2024).
   [[paper](https://ieeexplore.ieee.org/document/10812907)] [[code]( )]
+
+- **Text-IF:** Xunpeng Yi, Han Xu, Hao Zhang, Linfeng Tang, Jiayi Ma.
+   "Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.16387)] [[code](https://github.com/XunpengYi/Text-IF)]
 
 - **ITFuse:** Wei Tang, Fazhi He, Yu Liu.
    "ITFuse: An interactive transformer for infrared and visible image fusion." PR (2024).
