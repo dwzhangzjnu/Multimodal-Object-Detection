@@ -909,6 +909,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Diff-RF: Mutually Reinforced Image Registration and Fusion via Degradation-Aware Learning." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.28235)] [[code](https://github.com/XunpengYi/Diff-RF)]
 
+- **SAGE:** Timing Li, Yiming Sun, Boan Tao, Xiyuan Gao, Haifang Cao, Pengfei Zhu.
+   "SAGE: Source-Anchored Guidance via Frequency Equalization for Hierarchical RGB-T Alignment and Fusion." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.30703)] [[code]( )]
+
 - **UniDiffFusion:** Xingxin Xu, Siqi Zhao, Xin Li, Xinjie Yao, Yiming Sun, Pengfei Zhu.
    "UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.21786)] [[code]( )]
