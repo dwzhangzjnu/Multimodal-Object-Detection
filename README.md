@@ -194,6 +194,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Vision-Language Grounding as Bidirectional Concept Correspondence." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07886)] [[code](https://uwgzq.github.io/papers/ConCor-1/)]
 
+- **GroundAnything:** Qize Yu, Lianrui Fan, Bowen Ping, Xini Ding, Zetian Song, Junbo Niu, Kaixuan Wang, Tianxing Chen, Yue Chen, Minghua He, Yuran Wang, Jie Huang, Haojun Zhang, Min Chen, Hao Li, Wenxuan Song, Ruihai Wu, Xianming Liu, Shilong Liu, Shuchang Zhou, Ping Luo, Shiyu Huang.
+   "GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.39600)] [[code](https://groundingpi.github.io/groundanything/)]
+
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
@@ -864,6 +868,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IDEAL:** Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, Xingfeng Li.
    "Difference-Aware Decision Learning for Multimodal Image Fusion." ICML (2026).
   [[paper](https://openreview.net/forum?id=j4E6NstJR4)] [[code](https://github.com/Pon915/IDEAL-main)]
+
+- **RCS-Fusion:** Zeyu Wang, Mingyu Ge, Haiyu Song, Haoran Duan.
+   "Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2609.38968)] [[code](https://github.com/GMY628/RCS-Fusion)]
+
+- **SIDFusion:** Zeyu Wang, Jiayu Wang, Haiyu Song, Haoran Duan.
+   "When Integral Meets Decomposition: A Signal-Level Self-Supervised Feature Decompose Paradigm for Multi-Modal Image Fusion." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2609.39004)] [[code](https://github.com/Wangjiayu0512/SIDFusion)]
 
 - **CtrlFuse:** Yiming Sun, Yuan Ruan, Qinghua Hu, Pengfei Zhu.
    "CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion." AAAI (2026).
