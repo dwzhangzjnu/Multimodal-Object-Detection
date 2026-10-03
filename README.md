@@ -912,7 +912,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DepthNet:** Liangjie Song, Gang Liu, Hanlin Xu, Yiyao Zhao, Gang Xiao, Durga Prasad Bavirisetti.
    "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
-  
+
+- **FDIAFusion:** Dan He, Weisheng Li, Guofen Wang, Lijian Yang, Feiyan Li, Yidong Peng, Yucheng Shu.
+   "Frequency-Decoupled and Intensity-Aware Infrared and Low-Light Visible Image Fusion via Retinex-Space Contrastive Constraints." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006986)] [[code](https://github.com/HeDan-11/FDIAFusion)]
+
 - **CIS-Fuse:** Rui Zhao, Zhuoyuan Li, Wenrui Li, Yanchen Dong, Yajing Zheng, Giuseppe Valenzise, Weisi Lin.
    "Current Injection Spiking Neural Network for Infrared and Visible Image Fusion." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.19879)] [[code]( )]
