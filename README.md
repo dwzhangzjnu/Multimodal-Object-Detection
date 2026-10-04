@@ -913,6 +913,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
 
+- **VCHANet:** Shuting Duan, Yuchen Yan, Zhongxin Feng, Zhongyuan Wang, Jinsheng Xiao.
+   "VCHANet: Variational Cross-modal Hypergraph Attention Network for Infrared-Visible Image Fusion." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526007049)] [[code]( )]
+
 - **FDIAFusion:** Dan He, Weisheng Li, Guofen Wang, Lijian Yang, Feiyan Li, Yidong Peng, Yucheng Shu.
    "Frequency-Decoupled and Intensity-Aware Infrared and Low-Light Visible Image Fusion via Retinex-Space Contrastive Constraints." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006986)] [[code](https://github.com/HeDan-11/FDIAFusion)]
