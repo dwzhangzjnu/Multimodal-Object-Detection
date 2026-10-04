@@ -909,6 +909,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11655203)] [[code](https://github.com/cmuhang/ULightIF)]
 
+- **MGSC-Net:** Xiaonan He; Yukun Xia; Jianyao Li; Congxuan Zhang; Zhen Chen.
+   "MGSC-Net: Multisemantic Guided Spatialâ€“Frequency Collaborative Network for UAV-Based Infrared and Visible Image Fusion." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11690987)] [[code](https://github.com/nchuhxn/MGSC-Net)]
+
 - **DepthNet:** Liangjie Song, Gang Liu, Hanlin Xu, Yiyao Zhao, Gang Xiao, Durga Prasad Bavirisetti.
    "DepthNet: Geometry-guided infrared and visible image fusion network via depth priors." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017206)] [[code](https://github.com/songliangjie/DepthNet)]
