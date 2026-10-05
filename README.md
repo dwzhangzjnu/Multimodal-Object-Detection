@@ -170,6 +170,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection." EMNLP (2026).
   [[paper](https://arxiv.org/abs/2509.24192)] [[code](https://github.com/ssojungan/tase)]
 
+- **LAS-CLIP:** Anh-Khoa Dinh-Duc, Duc-Tai Dinh, Tam V. Nguyen, Minh-Triet Tran.
+   "LAS-CLIP: A Lightweight Adapter Steering Approach for CLIP's Visual Encoder." ACCV (2026).
+  [[paper](https://arxiv.org/abs/2610.03370)] [[code](https://github.com/AnhKhoa585/lasclip)]
+
 - **Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Yueyi Sun, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.
    "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2501.04001)] [[code](https://github.com/bytedance/Sa2VA)]
