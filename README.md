@@ -29,6 +29,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection." CVPR (2026).
   [[paper](https://arxiv.org/abs/2512.23273)] [[code](https://github.com/Tencent/YOLO-Master)]
 
+- **XS-VID/YOLOFT:** Jiahao Guo, Ziyang Xu, Lianjun Wu, Fei Gao, Wenyu Liu, Xinggang Wang.
+   "XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2407.18137)] [[code](https://gjhhust.github.io/XS-VID/)]
+
 - **C2FXNet:** Tianle Fang, Zhenbing Liu, Chong Yin, Bolun Li, Haoxiang Lu.
    "C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2609.25693)] [[code](https://github.com/PolarisFTL/C2FXNet)]
@@ -75,7 +79,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **FSDC-DETR:** Aiwen Liu, Chengguang Zhu, Gang Wang, Dandan Zhu, Haodong Lin, Yan Wang, Huiyu Zhou, Zhengyi Pan.
    "FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.05176)] [[code](https://github.com/nevereverinsomnia/FSDC-DETR)]
-  
+
+- **DETRNN:** Shengjian Wu, Li Sun, Yu Shangguan, Qingli Li.
+   "Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.05191)] [[code](https://github.com/nigelwoo2008-coder/DETRNN)]
+
 - **LoRA-DETR:** Yiwei Zhang, Jin Gao, Hanshi Wang, Fudong Ge, Guan Luo, Weiming Hu, Zhipeng Zhang.
    "Integrating Diverse Assignment Strategies into DETRs." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.09247)] [[code](https://github.com/Z1zyw/LoRA-DETR)]
@@ -320,6 +328,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **LSP:** Yuanhang Yao, Ping Qian, Zhu Liu, Long Ma, Weimin Wang.
    "Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7214.pdf)] [[code](https://github.com/yuanhang-yao/semantic-prior)]
+
+- **IRSTD-Agent:** Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei.
+   "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.05342)] [[code]( )]
 
 - **DISTA-Net++:** Mengze Xu, Zhu Liu, Weidong Sheng, Boyang Li, Yimian Dai, Ming-Ming Cheng, Jian Yang.
    "DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation." arXiv (2026).
