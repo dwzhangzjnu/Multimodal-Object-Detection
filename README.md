@@ -88,6 +88,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Integrating Diverse Assignment Strategies into DETRs." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.09247)] [[code](https://github.com/Z1zyw/LoRA-DETR)]
   
+- **RT-DETR-World:** Yupeng Zhang, Ziyi Zhao, Juntao Cheng, Sheng Wang, Ningnan Guo, Ruize Han, Liang Wan.
+   "RT-DETR-World: Transferring Rich LLM Semantics to Real-Time Open-Vocabulary Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.09502)] [[code]( )]
+
+- **LiG-DETR:** Yupeng Zhang, Fangzhuo Gao, Juntao Cheng, Ziyi Zhao, Liang Wan, Ruize Han.
+   "LiG-DETR: Local-in-Global Reassembly in Latent Space for Aerial Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.09511)] [[code]( )]
+
 - **UAV-DETR:** Jun Yang, Dong Wang, Hongxu Yin, Hongpeng Li, Jianxiong Yu.
    "UAV-DETR: DETR for Anti-Drone Target Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2603.22841)] [[code](https://github.com/wd-sir/UAVDETR)]
@@ -917,6 +925,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "STAFuse: Scene-Text Aggregation-Guided Composite Degradation-Robust Infrared and Visible Image Fusion." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644823)] [[code]( )]
 
+- **TAFuse:** Liangjie Song; Gang Liu; Hanlin Xu; Bo Liu; Yao Qian; Yiyao Zhao.
+   "A Texture-Aware Framework for Infrared and Visible Image Fusion." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11667719)] [[code](https://github.com/XuHanlin66839/TAFuse)]
+
 - **SpikeVFuse:** Muhang Cheng; Hongwei Mo.
    "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11673287)] [[code](https://github.com/cmuhang/SpikeVFuse)]
@@ -940,6 +952,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **FDIAFusion:** Dan He, Weisheng Li, Guofen Wang, Lijian Yang, Feiyan Li, Yidong Peng, Yucheng Shu.
    "Frequency-Decoupled and Intensity-Aware Infrared and Low-Light Visible Image Fusion via Retinex-Space Contrastive Constraints." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006986)] [[code](https://github.com/HeDan-11/FDIAFusion)]
+
+- **CRT-HMAR:** Zengyi Yang, Shuai Yuan, Zhong-Cheng Wu, Juan Cheng, Huafeng Li, Yu Liu.
+   "CRT-HMAR: Causal Requirement Tracing-Guided Hierarchical Multi-Agent Regulation for Open-Task-Aware Infrared-Visible Image Fusion." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.09330)] [[code]( )]
 
 - **CIS-Fuse:** Rui Zhao, Zhuoyuan Li, Wenrui Li, Yanchen Dong, Yajing Zheng, Giuseppe Valenzise, Weisi Lin.
    "Current Injection Spiking Neural Network for Infrared and Visible Image Fusion." arXiv (2026).
