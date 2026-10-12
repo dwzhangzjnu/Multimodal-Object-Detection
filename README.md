@@ -84,6 +84,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.05191)] [[code](https://github.com/nigelwoo2008-coder/DETRNN)]
 
+- **RF-DETR:** Isaac Robinson, Peter Robicheaux, Matvei Popov, Deva Ramanan, Neehar Peri.
+   "RF-DETR: Neural Architecture Search for Real-Time Detection Transformers." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2511.09554)] [[code](https://github.com/roboflow/rf-detr)]
+
 - **LoRA-DETR:** Yiwei Zhang, Jin Gao, Hanshi Wang, Fudong Ge, Guan Luo, Weiming Hu, Zhipeng Zhang.
    "Integrating Diverse Assignment Strategies into DETRs." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.09247)] [[code](https://github.com/Z1zyw/LoRA-DETR)]
@@ -229,6 +233,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Hi-Token:** Xiuyuan Zhu, Ke Lu, Kun Dong, Siwen Jiao, Hao Wu, Zijin Du, Shun Mao, Dongming Zhang, Jian Xue.
    "Hi-Token: Hierarchical Coordinate Tokenization for Generative Visual Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.03471)] [[code](https://xyzzzh.github.io/Hi-Token/)]
+
+- **Jag:** Xiuyuan Zhu, Ke Lu, Hao Wu, Zijin Du, Dongming Zhang, Jian Xue.
+   "Jag: Direct Box Prediction for Efficient Visual Grounding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.13239)] [[code](https://xyzzzh.github.io/Jag/)]
 
 - **GrabVG:** Chaowei Wang, Yan Di, Jingjun Sun, Baozhe Liu, Jiaxu Tian, Yuheng Li, Guangqian Guo, Shan Gao.
    "GrabVG: Graph-Attentive Binding for Visual Grounding in UAV Imagery." arXiv (2026).
@@ -952,6 +960,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **FDIAFusion:** Dan He, Weisheng Li, Guofen Wang, Lijian Yang, Feiyan Li, Yidong Peng, Yucheng Shu.
    "Frequency-Decoupled and Intensity-Aware Infrared and Low-Light Visible Image Fusion via Retinex-Space Contrastive Constraints." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006986)] [[code](https://github.com/HeDan-11/FDIAFusion)]
+
+- **Win-Win Fusion:** Hao Zhang, Xuhui Zuo, Jiayi Ma.
+   "Win-Win Fusion: Multi-Modal Image Fusion with Visual-Semantic Collaboration." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.12887)] [[code](https://github.com/HaoZhang1018/W2F)]
 
 - **CRT-HMAR:** Zengyi Yang, Shuai Yuan, Zhong-Cheng Wu, Juan Cheng, Huafeng Li, Yu Liu.
    "CRT-HMAR: Causal Requirement Tracing-Guided Hierarchical Multi-Agent Regulation for Open-Task-Aware Infrared-Visible Image Fusion." arXiv (2026).
