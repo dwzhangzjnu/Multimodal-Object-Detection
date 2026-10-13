@@ -214,6 +214,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Dual-Path Learning Towards Open-Vocabulary Object Detection in Remote Sensing Images." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11690642)] [[code](https://github.com/yanqingyao1994/DPNet)]
 
+- **ITC-OVAD:** Guoting Wei; Xia Yuan; Yu Liu; Zhenhao Shang; Xizhe Xue; Peng Wang.
+   "ITC-OVAD: An Image-Text Collaborative Strategy for Open-Vocabulary Aerial Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11703721)] [[code](https://github.com/GT-Wei/ITC-OVAD)]
+
 - **ConCor-1:** Jieyu Zhang, Ziqi Gao, Luke Zettlemoyer, Ranjay Krishna.
    "Vision-Language Grounding as Bidirectional Concept Correspondence." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07886)] [[code](https://uwgzq.github.io/papers/ConCor-1/)]
@@ -501,6 +505,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **MAMENet:** Kaiyue Men; Chengyou Wang; Xiao Zhou; Zhiliang Qin.
    "MAMENet: Modal Alignment and Multi-Scale Feature Enhancement Network for RGB-IR Small Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11693063)] [[code]( )]
+
+- **SGLDet:** Peng Zhang; Shuaihao Han; Tingfa Xu; Jianan Li.
+   "SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11723206)] [[code]( )]
 
 - **SCFDet:** Fulin Luo; Yan Guan; Chuan Fu; Tan Guo; Zhixiong Nan; Tao Xiang.
    "SCFDet: Selective Cross-modal Fusion Network for RGB-Infrared Object Detection in Remote Sensing." TGRS (2026).
