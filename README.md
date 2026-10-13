@@ -716,6 +716,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DHANet: Dual-Stream Hierarchical Interaction Networks for Multimodal Drone Object Detection." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11030749)] [[code](https://github.com/Victoria-xin1009/-IEEE_TGRS_DHANet)]
 
+- **IMHFNet:** Ting Lu; Jiacheng Lu; Wei Fu; Yifan Xi.
+   "Illumination-Aware Multimodal Hierarchical Fusion Network for RGB-Infrared Object Detection." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11271561)] [[code](https://github.com/luting-hnu/DroneShip)]
+
 - **MGFF:** Xiangqi Chen; Shan Jin; Li Zhao; Chengzhuan Yang; Dawei Zhang; Xiao Wang, Hua Wang, Zhonglong Zheng.
    "Mask-Guided Frequency Feature Fusion for Visibleâ€“Infrared Remote Sensing Object Detection." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11175205)] [[code]( )]
@@ -933,6 +937,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Uncertainty-Guided Spatiotemporal Consistency Fusion Network for Infrared-Visible Video Fusion under Extremely Low-Light Conditions." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644855)] [[code](https://github.com/Zhaocheng1/ELVID)]
 
+- **RealFusion:** Hengshuai Cui; Wenda Zhao; Haipeng Wang; Jun Yan; Hao Liu.
+   "RealFusion: Rethinking Infrared and Visible Image Fusion from A Modality-Invariant Perspective." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11715956)] [[code](https://github.com/HengshuaiCui/RealFusion)]
+
 - **SBNF:** Shaobing Gao; Minjie Tan; Shun Lv; Yiguang Liu; Yongjie Li.
    "Infrared and Visible Image Fusion Using Bimodal Neuron and Dynamic Receptive Field Mechanisms." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11511400)] [[code](https://github.com/rwerwer2024/SBNF)]
@@ -1010,6 +1018,18 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **TDFusion:** Haowen Bai, Jiangshe Zhang, Zixiang Zhao, Yichen Wu, Lilun Deng, Yukun Cui, Tao Feng, Shuang Xu.
    "Task-driven Image Fusion with Learnable Fusion Loss." CVPR (2025).
   [[paper](https://arxiv.org/abs/2412.03240)] [[code](https://github.com/HaowenBai/TDFusion)]
+
+- **UMCFuse:** Xilai Li; Xiaosong Li; Tianshu Tan; Huafeng Li; Tao Ye.
+   "UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11164947)] [[code](https://github.com/ixilai/UMCFuse)]
+
+- **SDSFusion:** Jun Chen; Liling Yang; Wei Yu; Wenping Gong; Zhanchuan Cai; Jiayi Ma.
+   "SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11014600)] [[code](https://github.com/Liling-yang/SDSFusion)]
+
+- **MAFS:** Liying Wang; Xiaoli Zhang; Chuanmin Jia; Siwei Ma.
+   "MAFS: Masked Autoencoder for Infrared-Visible Image Fusion and Semantic Segmentation." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11178208)] [[code](https://github.com/Abraham-Einstein/MAFS)]
 
 - **WaveFusion:** Qinghua Wang; Ziwei Li; Shuqi Zhang; Nan Chi; Qionghai Dai.
    "WaveFusion: A Novel Wavelet Vision Transformer With Saliency-Guided Enhancement for Multimodal Image Fusion." TCSVT (2025).
