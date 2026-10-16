@@ -230,6 +230,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
 
+- **EPIC-Bench:** Haozhe Shan, Xiancong Ren, Han Dong, Yingji Zhang, Haoyuan Shi, Jiayu Hu, Qinfan Zhang, Yi Zhang, Yong Dai, Bin Shen, Lizhen Qu, Zenglin Xu, Xiaozhu Ju.
+   "EPIC-Bench: A Perception-Centric Benchmark for Fine-Grained Embodied Visual Grounding in Vision-Language Models." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.17070)] [[code](https://epic-bench.github.io/EPIC-Bench/)]
+
 - **DeCo:** Xiaoqiang Lu, Licheng Jiao, Long Sun, Yuting Yang, Xu Liu, Lingling Li, Wenping Ma, Fang Liu.
    "DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.24409)] [[code](https://github.com/xiaoqiang-lu/DeCo)]
@@ -352,6 +356,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IRSTD-Agent:** Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei.
    "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.05342)] [[code]( )]
+
+- **LCPNet:** Tianfang Zhang, Lei Li, Chang Liu, Zhenming Peng, Huaping Zhang, Xiangyang Ji.
+   "LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.04603)] [[code](https://github.com/Tianfang-Zhang/LCPNet)]
 
 - **DISTA-Net++:** Mengze Xu, Zhu Liu, Weidong Sheng, Boyang Li, Yimian Dai, Ming-Ming Cheng, Jian Yang.
    "DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation." arXiv (2026).
