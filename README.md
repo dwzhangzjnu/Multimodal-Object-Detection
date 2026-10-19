@@ -502,6 +502,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "D2CMFDet: Disparity-Guided Dynamic Cross-modal Mamba Fusion for Multispectral Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11684857)] [[code](https://github.com/jacksonwu09/D2CMFDet)]
 
+- **EFAWDet:** Zhenghua Huang; Haiwen Chen; Qian Li; Yaozong Zhang; Chunhua Deng; Xin Xu.
+   "EFAWDet: Efficient Frequency-Role Assigned Wavelet-State-Space Fusion for RGBâ€“Infrared Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11719730)] [[code](https://github.com/chenHeaven/EFAWDet)]
+
 - **FPR-Net:** Yuhao Du; Zhanchao Huang; Junjie Wang; Li Wang; Aiguo Fei.
    "Mining Heterogeneous Advantages via Feature Purification and Recombination for Multimodal Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11657438)] [[code]( )]
@@ -920,6 +924,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IDEAL:** Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, Xingfeng Li.
    "Difference-Aware Decision Learning for Multimodal Image Fusion." ICML (2026).
   [[paper](https://openreview.net/forum?id=j4E6NstJR4)] [[code](https://github.com/Pon915/IDEAL-main)]
+
+- **PCDFusion:** Rui Liu, Lin Gu, Hesong Li, Ying Fu.
+   "PCDFusion: Proposal-Context-Detail Bayesian Rendering for Infrared-Visible Image Fusion." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.23663)] [[code](https://github.com/BIT-RuiLiu/PCDFusion)]
 
 - **RCS-Fusion:** Zeyu Wang, Mingyu Ge, Haiyu Song, Haoran Duan.
    "Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion." NeurIPS (2026).
