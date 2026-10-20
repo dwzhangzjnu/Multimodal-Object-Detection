@@ -506,6 +506,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "EFAWDet: Efficient Frequency-Role Assigned Wavelet-State-Space Fusion for RGBâ€“Infrared Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11719730)] [[code](https://github.com/chenHeaven/EFAWDet)]
 
+- **FADN:** Xiaomin Liu; Haojie Yin; Haoyu Wang.
+   "Overcoming High-Frequency Attenuation in UAV Infrared-Visible Remote Sensing Tiny Object Detection: Frequency-Domain Amplitude-Phase Decoupling Network." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11733957)] [[code]( )]
+
 - **FPR-Net:** Yuhao Du; Zhanchao Huang; Junjie Wang; Li Wang; Aiguo Fei.
    "Mining Heterogeneous Advantages via Feature Purification and Recombination for Multimodal Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11657438)] [[code]( )]
@@ -988,6 +992,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **VCHANet:** Shuting Duan, Yuchen Yan, Zhongxin Feng, Zhongyuan Wang, Jinsheng Xiao.
    "VCHANet: Variational Cross-modal Hypergraph Attention Network for Infrared-Visible Image Fusion." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526007049)] [[code]( )]
+
+- **SD-CR:** Xiaosa Wang, Huafeng Li, Wen Wang, Yafei Zhang, Yu Liu, Xiangbo Shu.
+   "Structureâ€“degradation Co-reasoning for infraredâ€“visible image fusion under asymmetric degradation." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S156625352600744X)] [[code](https://github.com/bi8bo121/SD-CR)]
 
 - **FDIAFusion:** Dan He, Weisheng Li, Guofen Wang, Lijian Yang, Feiyan Li, Yidong Peng, Yucheng Shu.
    "Frequency-Decoupled and Intensity-Aware Infrared and Low-Light Visible Image Fusion via Retinex-Space Contrastive Constraints." INFFUS (2026).
