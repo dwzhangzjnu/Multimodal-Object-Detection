@@ -274,6 +274,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.16124)] [[code]( )]
 
+- **SL-Ground:** Yang-Syu Li, Cheng-Huan Yang, Chia-Yung Jui, Peggy Joy Lu.
+   "SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.24814)] [[code]( )]
+
 
 ### 2025
 
@@ -292,6 +296,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **VRT:** Haobo Yuan, Yueyi Sun, Yanwei Li, Tao Zhang, Xueqing Deng, Henghui Ding, Lu Qi, Anran Wang, Xiangtai Li, Ming-Hsuan Yang.
    "Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark." arXiv (2025).
   [[paper](https://arxiv.org/abs/2512.05091)] [[code](https://github.com/bytedance/Sa2VA/tree/main/projects/vrt_sa2va)]
+
+- **LAOD:** Furkan Mumcu, Michael J. Jones, Anoop Cherian, Yasin Yilmaz.
+   "MLLM-Guided Autonomous Object Detection for Open-World Understanding." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.10844)] [[code](https://github.com/furkanmumcu/LAOD)]
 
 - **PAML:** Jiangnan Xie, Xiaolong Zheng, Liang Zheng.
    "Prototype-Aware Multimodal Alignment for Open-Vocabulary Visual Grounding." arXiv (2025).
