@@ -518,6 +518,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Overcoming High-Frequency Attenuation in UAV Infrared-Visible Remote Sensing Tiny Object Detection: Frequency-Domain Amplitude-Phase Decoupling Network." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11733957)] [[code]( )]
 
+- **SMESP-DiffDet:** Zian Wang; Puhong Duan; Jin Yuan; Xudong Kang; Zhiyong Li.
+   "SMESP-DiffDet: Small-object MoE Enhanced Spatial Prior-guided DiffDet for Visible-infrared Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11738807)] [[code]( )]
+
 - **FPR-Net:** Yuhao Du; Zhanchao Huang; Junjie Wang; Li Wang; Aiguo Fei.
    "Mining Heterogeneous Advantages via Feature Purification and Recombination for Multimodal Object Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11657438)] [[code]( )]
