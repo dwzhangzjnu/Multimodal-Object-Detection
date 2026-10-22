@@ -77,7 +77,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   [[paper](https://arxiv.org/abs/2603.09411)] [[code](https://github.com/RicePasteM/RiO-DETR)]
 
 - **RiO-DETRv2:** Zhangchi Hu, Zilong He, Yifan Zhao, Xiangyu Yu, Jie Chen, Peixi Wu, Yansong Peng, Hebei Li, Xiaoyan Sun.
-   "RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer." ECCV (2026).
+   "RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.29159)] [[code](https://github.com/RicePasteM/RiO-DETRv2)]
   
 - **FSDC-DETR:** Aiwen Liu, Chengguang Zhu, Gang Wang, Dandan Zhu, Haodong Lin, Yan Wang, Huiyu Zhou, Zhengyi Pan.
