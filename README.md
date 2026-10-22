@@ -76,6 +76,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RiO-DETR: DETR for Real-time Oriented Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.09411)] [[code](https://github.com/RicePasteM/RiO-DETR)]
 
+- **RiO-DETRv2:** Zhangchi Hu, Zilong He, Yifan Zhao, Xiangyu Yu, Jie Chen, Peixi Wu, Yansong Peng, Hebei Li, Xiaoyan Sun.
+   "RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2610.29159)] [[code](https://github.com/RicePasteM/RiO-DETRv2)]
+  
 - **FSDC-DETR:** Aiwen Liu, Chengguang Zhu, Gang Wang, Dandan Zhu, Haodong Lin, Yan Wang, Huiyu Zhou, Zhengyi Pan.
    "FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.05176)] [[code](https://github.com/nevereverinsomnia/FSDC-DETR)]
@@ -364,6 +368,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IRSTD-Agent:** Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei.
    "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.05342)] [[code]( )]
+
+- **DiffIRSTD:** Xuelin Qian, Zixuan Wang, Chang Xu, Dingwen Zhang, Junwei Han.
+   "Seeing through Denoising: Frequency-guided One-step Denoising for Infrared Small Target Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.29361)] [[code]( )]
 
 - **LCPNet:** Tianfang Zhang, Lei Li, Chang Liu, Zhenming Peng, Huaping Zhang, Xiangyang Ji.
    "LCPNet: Latent Consistent Proximal Unfolding Network for Infrared Small Target Detection." arXiv (2026).
