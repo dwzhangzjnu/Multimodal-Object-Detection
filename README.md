@@ -178,6 +178,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "CoT-PL: Chain-of-Thought Pseudo-Labeling for Open-Vocabulary Object Detection." ECCV (2026).
   [[paper](https://eccv.ecva.net/virtual/2026/poster/3265)] [[code](https://hchoi256.github.io/projects/mspl/)]
 
+- **ProCoRe:** Minhyuk Seo, Minjae Lee, Chaeeun Lee, Wei Lin, Muhammad Jehanzeb Mirza, Tinne Tuytelaars, Jonghyun Choi.
+   "Visual Grounding First, Multimodal In-context Learning Follows." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.30592)] [[code]( )]
+
 - **CODE:** Hao Xu, Zhaoning Shi, Hehe Jin, Bo Ma.
    "CODE: Cross-Modal Calibration and Dynamic Suppression for Open World Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.27214)] [[code]( )]
@@ -221,6 +225,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **ITC-OVAD:** Guoting Wei; Xia Yuan; Yu Liu; Zhenhao Shang; Xizhe Xue; Peng Wang.
    "ITC-OVAD: An Image-Text Collaborative Strategy for Open-Vocabulary Aerial Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11703721)] [[code](https://github.com/GT-Wei/ITC-OVAD)]
+
+- **VLM4RS:** Yue Zhou, Shujun Zhao, Xue Yang, Ruigang Li, Tianwen Zhang, Mengcheng Lan, Chaofeng Chen, Lingfei Ma, Hongjie He, Jonathan Li.
+   "Data-Driven Vision-Language Models for Remote Sensing: A Survey." TGRS (2026).
+  [[paper](https://arxiv.org/abs/2610.31304)] [[code](https://github.com/VisionXLab/Awesome-RS-VL-Data)]
 
 - **ConCor-1:** Jieyu Zhang, Ziqi Gao, Luke Zettlemoyer, Ranjay Krishna.
    "Vision-Language Grounding as Bidirectional Concept Correspondence." arXiv (2026).
