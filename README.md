@@ -227,7 +227,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
   [[paper](https://ieeexplore.ieee.org/document/11703721)] [[code](https://github.com/GT-Wei/ITC-OVAD)]
 
 - **VLM4RS:** Yue Zhou, Shujun Zhao, Xue Yang, Ruigang Li, Tianwen Zhang, Mengcheng Lan, Chaofeng Chen, Lingfei Ma, Hongjie He, Jonathan Li.
-   "Data-Driven Vision-Language Models for Remote Sensing: A Survey." TGRS (2026).
+   "Data-Driven Vision-Language Models for Remote Sensing: A Survey." GRSM (2026).
   [[paper](https://arxiv.org/abs/2610.31304)] [[code](https://github.com/VisionXLab/Awesome-RS-VL-Data)]
 
 - **ConCor-1:** Jieyu Zhang, Ziqi Gao, Luke Zettlemoyer, Ranjay Krishna.
