@@ -993,6 +993,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Infrared and Visible Image Fusion Using Bimodal Neuron and Dynamic Receptive Field Mechanisms." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11511400)] [[code](https://github.com/rwerwer2024/SBNF)]
 
+- **DDIF:** Kexin Huang; Zhiyuan Zhang; Chaohua Shi; Lan Luo; Junpeng Shi; Yongxiang Liu.
+   "Detection Drives an End-to-End Fusion of Infrared and Visible Images Based on Diffusion Models." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11433523)] [[code]( )]
+
 - **STAFuse:** Ting Lv; Hong Jiang; Yu Liu.
    "STAFuse: Scene-Text Aggregation-Guided Composite Degradation-Robust Infrared and Visible Image Fusion." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644823)] [[code]( )]
@@ -1071,6 +1075,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Task-driven Image Fusion with Learnable Fusion Loss." CVPR (2025).
   [[paper](https://arxiv.org/abs/2412.03240)] [[code](https://github.com/HaowenBai/TDFusion)]
 
+- **Mask-DiFuser::** Linfeng Tang; Chunyu Li; Jiayi Ma.
+   "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11162636)] [[code]( )]
+
 - **UMCFuse:** Xilai Li; Xiaosong Li; Tianshu Tan; Huafeng Li; Tao Ye.
    "UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11164947)] [[code](https://github.com/ixilai/UMCFuse)]
@@ -1083,6 +1091,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "MAFS: Masked Autoencoder for Infrared-Visible Image Fusion and Semantic Segmentation." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11178208)] [[code](https://github.com/Abraham-Einstein/MAFS)]
 
+- **PPIFuse:** Qianhong Zhang; Qiao Liu; Di Yuan; Xin Li; Yunpeng Liu.
+   "PPIFuse: Physical Priors Injected Infrared and Visible Image Fusion." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11245574)] [[code](https://github.com/QiaoLiuHit/PPIFuse)]
+
 - **WaveFusion:** Qinghua Wang; Ziwei Li; Shuqi Zhang; Nan Chi; Qionghai Dai.
    "WaveFusion: A Novel Wavelet Vision Transformer With Saliency-Guided Enhancement for Multimodal Image Fusion." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10918659)] [[code]( )]
@@ -1094,13 +1106,29 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption." TPAMI (2024).
   [[paper](https://ieeexplore.ieee.org/document/10812907)] [[code]( )]
 
+- **VDMUFusion:** Yu Shi; Yu Liu; Juan Cheng; Z. Jane Wang; Xun Chen.
+   "VDMUFusion: A Versatile Diffusion Model-Based Unsupervised Framework for Image Fusion." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10794610)] [[code](https://github.com/yuliu316316/VDMUFusion)]
+
 - **Text-IF:** Xunpeng Yi, Han Xu, Hao Zhang, Linfeng Tang, Jiayi Ma.
    "Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.16387)] [[code](https://github.com/XunpengYi/Text-IF)]
 
+- **Text-DiFuse:** Hao Zhang, Lei Cao, Jaiyi Ma.
+   "Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.23905)] [[code](https://github.com/Leiii-Cao/Text-DiFuse)]
+
 - **ITFuse:** Wei Tang, Fazhi He, Yu Liu.
    "ITFuse: An interactive transformer for infrared and visible image fusion." PR (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324005739)] [[code](https://github.com/tthinking/ITFuse)]
+
+- **Diff-IF:** Xunpeng Yi, Linfeng Tang, Hao Zhang, Han Xu, Jiayi Ma.
+   "Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior." INFFUS (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002288)] [[code](https://github.com/XunpengYi/Diff-IF)]
+
+- **Dif-Fusion:** Jun Yue; Leyuan Fang; Shaobo Xia; Yue Deng; Jiayi Ma.
+   "Dif-Fusion: Toward High Color Fidelity in Infrared and Visible Image Fusion With Diffusion Models." TIP (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10286359)] [[code](https://github.com/GeoVectorMatrix/Dif-Fusion)]
 
 - **DATFuse:** Wei Tang; Fazhi He; Yu Liu; Yansong Duan; Tongzhen Si.
    "DATFuse: Infrared and Visible Image Fusion via Dual Attention Transformer." TCSVT (2023).
@@ -1109,6 +1137,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **MoE-Fusion:** Yiming Sun, Bing Cao, Pengfei Zhu, Qinghua Hu.
    "Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion." ICCV (2023).
   [[paper](https://arxiv.org/abs/2302.01392)] [[code](https://github.com/SunYM2020/MoE-Fusion)]
+
+- **DDFM:** Zixiang Zhao; Haowen Bai; Yuanzhi Zhu; Jiangshe Zhang; Shuang Xu; Yulun Zhang.
+   "DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion." ICCV (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10376812)] [[code](https://github.com/Zhaozixiang1228/MMIF-DDFM)]
 
 - **DetFusion:** Yiming Sun, Bing Cao, Pengfei Zhu, Qinghua Hu.
    "DetFusion: A Detection-driven Infrared and Visible Image Fusion Network." ACM MM (2022).
