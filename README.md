@@ -84,6 +84,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.05176)] [[code](https://github.com/nevereverinsomnia/FSDC-DETR)]
 
+- **BUTR:** Yi Zhang, Di Xiong, Ge Gao, Xiangyue Zhang, Yihang Qiu, Yuxuan Zhou, Shuo Chen.
+   "Dynamic Query as Budgeting for Tiny Object Detection." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.33430)] [[code](https://github.com/zhangyi-magic/BUTR)]
+
 - **DETRNN:** Shengjian Wu, Li Sun, Yu Shangguan, Qingli Li.
    "Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.05191)] [[code](https://github.com/nigelwoo2008-coder/DETRNN)]
@@ -123,7 +127,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **D-FINE:** Yansong Peng, Hebei Li, Peixi Wu, Yueyi Zhang, Xiaoyan Sun, Feng Wu.
    "D-FINE: Redefine Regression Task of DETRs as Fineâ€‘grained Distribution Refinement." ICLR (2025).
   [[paper](https://arxiv.org/abs/2410.13842)] [[code](https://github.com/Peterande/D-FINE)]
-  
+
+- **FMC-DETR:** Ben Liang, Hongguang Wei, Yuan Liu, Bingwen Qiu, Yihong Wang, Xiubao Sui, Qian Chen.
+   "FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.23056)] [[code](https://github.com/bloomingvision/FMC-DETR)]
+
 - **RT-DETRv2:** Wenyu Lv, Yian Zhao, Qinyao Chang, Kui Huang, Guanzhong Wang, Yi Liu.
    "RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer." arXiv (2024).
   [[paper](https://arxiv.org/abs/2407.17140)] [[code](https://github.com/lyuwenyu/RT-DETR/tree/main/rtdetrv2_pytorch)]
