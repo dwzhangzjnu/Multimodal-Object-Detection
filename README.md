@@ -209,7 +209,15 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **MTRAG:** Yili Ren; Jinyang Du; Xi Liu; Qianxiao Su; Yue Deng; Hongjue Li.
    "MTRAG: Multi-Target Referring and Grounding via Hybrid Semantic-Spatial Integration." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397268)] [[code](https://github.com/deng-ai-lab/MTRAG)]
-  
+
+- **PR-OVD:** Wei Zhang; Zhu Teng; Zhixiang Chi; Junnan Zou; Yi Liu; Jianping Fan.
+   "Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11720150)] [[code]( )]
+
+- **OV-SAMA:** Liangbo Hou; Zishan Nie; Gaoyang Liu; Yuhao Zhang; Zhenkai Yang; Xinyi Yang.
+   "Manipulating Multimodal Neurons: A Semantically Guided Adversarial Attack Against Open-Vocabulary Object Detection." TDSC (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11733948)] [[code]( )]
+
 - **OneSVG:** Liangtao Shi; Ting Liu; Jinxia Xie; Ning Li; Bineng Zhong; Richang Hong.
    "Text-guided Vision Token Reduction with Low-rank Adaptation for Efficient Visual Grounding." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11482608)] [[code](https://github.com/ltShi/OneSVG)]
