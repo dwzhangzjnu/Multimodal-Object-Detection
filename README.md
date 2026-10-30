@@ -278,6 +278,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "GrabVG: Graph-Attentive Binding for Visual Grounding in UAV Imagery." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.18996)] [[code]( )]
 
+- **Angular Relevance:** Parsa Esmaeilkhani, Longin Jan Latecki.
+   "Angular Supervision for Visual Object Grounding in Autoregressive Vision-Language Models." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.32220)] [[code](https://github.com/ParsaKhani/Angular_object_grounding)]
+
 - **Pro-Bench:** Linus Nwankwo, Muslim Alaran, Christian Rauch, Stanley Chukwuebuka Obilikpa, Elmar Rueckert.
    "Pro-Bench: Prompt-Robust Open-Vocabulary Visual Grounding Across Real-World Heterogeneous Environments." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.27076)] [[code](https://pro-bench.github.io/)]
