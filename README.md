@@ -502,10 +502,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "MMFD: Modality-aware and Multi-scale Feature Fusion Network for Multispectral Fusion Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11661708)] [[code](https://github.com/Tracygc/MMFD)]
   
+- **SAGAL-Fusion:** Guangying Cao; Fan Li; Liejun Wang.
+   "SAGAL-Fusion: Structure-Aware Adversarial Learning and Cross-Modal Distance-Aware Fusion for Visible-Infrared Object Detection." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11719426)] [[code]( )]
+
 - **DWSF-Net:** Fan Yang; Wei Li; Lei Li; Min Yang; Jianwei Zhang.
    "DWSF-Net: A Dynamic Wavelet-based Spatial-frequency Fusion Network for Multispectral Object Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11415366)] [[code]( )]
-  
+
 - **DSAFormer:** Wencong Wu, Xiuwei Zhang, Hanlin Yin, Hongxi Zhang, Yanning Zhang.
    "Dual Sparse Aggregation Transformer for Multispectral Object Detection." TCSVT (2026).
   [[paper](https://arxiv.org/abs/2606.31015)] [[code](https://github.com/WenCongWu/DSAFormer)]
@@ -1024,6 +1028,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **TAFuse:** Liangjie Song; Gang Liu; Hanlin Xu; Bo Liu; Yao Qian; Yiyao Zhao.
    "A Texture-Aware Framework for Infrared and Visible Image Fusion." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11667719)] [[code](https://github.com/XuHanlin66839/TAFuse)]
+
+- **Fast-EPFuse:** Fusheng Li; Yuzhen Niu; Wenxi Liu; Rui Xu; Huangbiao Xu; Tiesong Zhao.
+   "Fast-EPFuse: Explicit Priors for Lightweight and Interpretable Infrared and Visible Image Fusion." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11721194)] [[code]( )]
 
 - **SpikeVFuse:** Muhang Cheng; Hongwei Mo.
    "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks." TMM (2026).
