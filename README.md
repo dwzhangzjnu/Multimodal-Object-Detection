@@ -1037,6 +1037,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11673287)] [[code](https://github.com/cmuhang/SpikeVFuse)]
 
+- **DDFusion:** Yiming Zhu; Tianpei Zhang; Jufeng Zhao; Lang Wu; Zhao Cai; Shuai Yuan.
+   "DDFusion: Modality-Specific Degradation Decoupling for Robust Infrared-Visible Image Fusion." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11749582)] [[code]( )]
+
 - **ULightIF:** Muhang Cheng; Haiyan Huang; Hongwei Mo.
    "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11655203)] [[code](https://github.com/cmuhang/ULightIF)]
