@@ -381,6 +381,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "DGNet: Dual-knowledge Guided Network for Infrared Small Target Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2609.00666)] [[code](https://github.com/iLearn-Lab/MM26-DGNet)]
 
+- **FDEP:** Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Yaokun Li, Xiujun Shu, Yuanhao Feng, Bo Wang, Xiangyu Yue.
+   "Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2512.05511)] [[code](https://github.com/YuChuang1205/FDEP-Framework)]
+
 - **SPIRE-IRSTD:** Rixiang Ni, Boyang Li, Jun Chen, Yonghao Li, Feiyu Ren, Yuji Wang, Haoyang Yuan, Wujiao He, Wei An.
    "Rethinking IRSTD: Single-Point Supervision Guided Encoder-only Framework is Enough for Infrared Small Target Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2604.05363)] [[code](https://github.com/NIRIXIANG/SPIRE-IRSTD)]
@@ -396,6 +400,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **IRSTD-Agent:** Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei.
    "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.05342)] [[code]( )]
+
+- **OmniIRST-VL:** Haoyang Yuan, Boyang Li, Yingqian Wang, Yimian Dai, Nuo Chen, Xinfei Huang, Shuqi Yi, Zaiping Lin, Weidong Sheng, Wei An.
+   "Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.07015)] [[code](https://github.com/shushengyuan/OmniIRSTD-VL)]
 
 - **DiffIRSTD:** Xuelin Qian, Zixuan Wang, Chang Xu, Dingwen Zhang, Junwei Han.
    "Seeing through Denoising: Frequency-guided One-step Denoising for Infrared Small Target Detection." arXiv (2026).
@@ -1068,6 +1076,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Win-Win Fusion:** Hao Zhang, Xuhui Zuo, Jiayi Ma.
    "Win-Win Fusion: Multi-Modal Image Fusion with Visual-Semantic Collaboration." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.12887)] [[code](https://github.com/HaoZhang1018/W2F)]
+
+- **NatureFusion:** Jianfeng Ding, Linfeng Tang, Hao Zhang, Han Xu, Xunpeng Yi, Yibing Zhang, Meiqi Gong, Zhongyuan Wang, Jiayi Ma.
+   "NatureFusion: Rethinking Infrared and Visible Image Fusion as Natural Complementary Enhancement." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.01607)] [[code]( )]
+
+- **ProtoFusion:** Pengwei Liang, Junjun Jiang, Junhui Hou.
+   "ProtoFusion: Protocol-Guided Prompt Refinement for Generative Infrared and Visible Image Fusion." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.02877)] [[code](https://erfect2020.github.io/ProtoFusion/)]
 
 - **CRT-HMAR:** Zengyi Yang, Shuai Yuan, Zhong-Cheng Wu, Juan Cheng, Huafeng Li, Yu Liu.
    "CRT-HMAR: Causal Requirement Tracing-Guided Hierarchical Multi-Agent Regulation for Open-Task-Aware Infrared-Visible Image Fusion." arXiv (2026).
