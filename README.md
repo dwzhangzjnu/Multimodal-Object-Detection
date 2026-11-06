@@ -997,6 +997,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "PCDFusion: Proposal-Context-Detail Bayesian Rendering for Infrared-Visible Image Fusion." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.23663)] [[code](https://github.com/BIT-RuiLiu/PCDFusion)]
 
+- **MemoryFusion:** Meiqi Gong, Hao Zhang, Jiayi Ma.
+   "MemoryFusion: Cross-Temporal Memory Learning for Multimodal Video Fusion." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.39322)] [[code](https://github.com/Meiqi-Gong/MemoryFusion)]
+
 - **RCS-Fusion:** Zeyu Wang, Mingyu Ge, Haiyu Song, Haoran Duan.
    "Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2609.38968)] [[code](https://github.com/GMY628/RCS-Fusion)]
