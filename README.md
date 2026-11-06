@@ -92,6 +92,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.05191)] [[code](https://github.com/nigelwoo2008-coder/DETRNN)]
 
+- **ReDHF:** Zehao Wang, Si Wu, Guiping Cao, Xin Li, Yaowei Wang.
+   "Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.07994)] [[code]( )]
+
 - **RF-DETR:** Isaac Robinson, Peter Robicheaux, Matvei Popov, Deva Ramanan, Neehar Peri.
    "RF-DETR: Neural Architecture Search for Real-Time Detection Transformers." ICLR (2026).
   [[paper](https://arxiv.org/abs/2511.09554)] [[code](https://github.com/roboflow/rf-detr)]
