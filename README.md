@@ -155,8 +155,21 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DETR:** Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko.
    "End-to-End Object Detection with Transformers." ECCV (2020).
   [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
-  
-### Foundation Model Series
+
+
+### Foundation Model and Others
+
+- **C2FXNet:** Tianle Fang, Zhenbing Liu, Chong Yin, Bolun Li, Haoxiang Lu.
+   "C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3834979)] [[code](https://github.com/PolarisFTL/C2FXNet)]
+
+- **HE-MoESNN:** Long Chen, Yaxin Li, Jiangrong Shen, Ling Huang, Yunzhi Zhuge, Qi Xu, Gang Pan, Qiang Zhang.
+   "Spiking Neural Network with Mixture of Heterogeneous Enhancement Experts for Underwater Object Detection." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835951)] [[code]( )]
+
+- **HTRDNet:** Moqi Li, Xu Yang, Cheng Deng.
+   "Hierarchical Temporal Residual Dynamics Network for Spiking Object Detectors." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835631)] [[code]( )]
 
 - **SpectraDINO:** Yagiz Nalcakan, Hyeongjin Ju, Incheol Park, Sanghyeop Yeo, Youngwan Jin, Shiho Kim.
    "SpectraDINO: Modality-Conditioned Adaptation of RGB Vision Foundation Models Across Infrared Bands." arXiv (2026).
@@ -193,6 +206,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **ProCoRe:** Minhyuk Seo, Minjae Lee, Chaeeun Lee, Wei Lin, Muhammad Jehanzeb Mirza, Tinne Tuytelaars, Jonghyun Choi.
    "Visual Grounding First, Multimodal In-context Learning Follows." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.30592)] [[code]( )]
+
+- **FLDet:** Qiuyu Liang, Yongqiang Zhang.
+   "Foreground-Generalized RPN and Language-Guided Visual Augmentation for Open-Vocabulary Object Detection." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3834985)] [[code](https://github.com/llqy123/FLDet)]
 
 - **CODE:** Hao Xu, Zhaoning Shi, Hehe Jin, Bo Ma.
    "CODE: Cross-Modal Calibration and Dynamic Suppression for Open World Object Detection." ACM MM (2026).
@@ -329,6 +346,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.17436)] [[code](https://github.com/wengminghe/Dynamic-DINO)]
 
+- **CADet:** Qiuyu Liang, Yongqiang Zhang.
+   "SAM based Region-Word Clustering and Inference Score Adjusting for Open-Vocabulary Object Detection." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3754501)] [[code](https://github.com/llqy123/CADet)]
+
 - **VRT:** Haobo Yuan, Yueyi Sun, Yanwei Li, Tao Zhang, Xueqing Deng, Henghui Ding, Lu Qi, Anran Wang, Xiangtai Li, Ming-Hsuan Yang.
    "Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark." arXiv (2025).
   [[paper](https://arxiv.org/abs/2512.05091)] [[code](https://github.com/bytedance/Sa2VA/tree/main/projects/vrt_sa2va)]
@@ -441,7 +462,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **ProtoHGF:** Xiangqi Chen, Xiuling Zhang, Chengzhuan Yang, Li Zhao, Dawei Zhang, Yanchao Wang, Liyuan Chen, Hua Wang, Hao Peng, Zhonglong Zheng.
    "ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.11595)] [[code](https://github.com/ZiMo-Chen/ProtoHGF)]
-  
+
 - **FressDet:** Peng Zhang, Tingfa Xu, Shuaihao Han, Jianan Li.
    "Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.05148)] [[code](https://github.com/Riiluo/FressDet)]
@@ -803,7 +824,11 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **MGFF:** Xiangqi Chen; Shan Jin; Li Zhao; Chengzhuan Yang; Dawei Zhang; Xiao Wang, Hua Wang, Zhonglong Zheng.
    "Mask-Guided Frequency Feature Fusion for Visibleâ€“Infrared Remote Sensing Object Detection." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11175205)] [[code]( )]
-  
+
+- **DPAL:** Yanfeng Liu; Wei Guo; Chaojun Yao; Lefei Zhang.
+   "Dual-Perspective Alignment Learning for Multimodal Remote Sensing Object Detection." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11026040)] [[code](https://github.com/lyf0801/DPAL)]
+
 - **SFFR:** Xin Zuo, Chenyu Qu, Haibo Zhan, Jifeng Shen, Wankou Yang.
    "SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection." TGRS (2025).
   [[paper](https://arxiv.org/abs/2511.06298)] [[code](https://github.com/qchenyu1027/SFFR)]
@@ -917,6 +942,14 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection." ECCV (2026).
   [[paper](https://eccv.ecva.net/virtual/2026/poster/5799)] [[code]( )]
 
+- **AeroFuse:** Dongyang Ma, Zhengyu Ma, Jianing Li, Chenlin Zhou, Yiqian Chang, Yonghong Tian.
+   "AeroFuse: Joint Spatial-Scale and Frequency-Domain RGB-Event Fusion for Aerial Detection." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835349)] [[code]( )]
+
+- **EDeMM:** Jupo Ma, Xingyu Zhang, Wen Yang, Jinjian Wu.
+   "Enhanced LSTM with Robust Memory and Motion Learning for Event-based Object Detection." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835403)] [[code]( )]
+
 - **FENET:** Kaiyi Wang; Xinyu Hou; Siying Liu; Chen Cheng; Lei Deng; Hao Guo.
    "An RGB-Event Hierarchical Fusion Enhancement Network for Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11557375)] [[code](https://github.com/wkydawang/FENET)]
@@ -1012,6 +1045,26 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **CtrlFuse:** Yiming Sun, Yuan Ruan, Qinghua Hu, Pengfei Zhu.
    "CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.08619)] [[code](https://github.com/Sevryy/CtrlFuse)]
+
+- **CLIPFuse:** Bingfeng Liu, Songwei Pei, Shuhuai Wang, Yuanzhou Huang, Yifei Wu, Qian Li, Pengfei Wang, Shangguang Wang.
+   "CLIPFuse: Transfer CLIP to General Image Fusion via Task Awareness." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3834959)] [[code](https://github.com/liuuuuu777/CLIPFuse)]
+
+- **ConFusion:** Yurong Guo, Yufei He, Yonghao Li, Dongliang Chang, Ke Zhang, Zhanyu Ma.
+   "ConFusion: Continuous Fusion Space Learning for Fine-Grained Controllable Infrared and Visible Image Fusion." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836300)] [[code](https://github.com/HeyufeiAnto/Confusion)]
+
+- **CRIF:** Kang Wang, Zhancheng Zhang, Lin Guo, Zhongzhen Sun, Hui Li, Xiaoning Song, Xiaoqing Luo.
+   "CRIF: Precision-Oriented Parallel Guidance for Controllable Referring Infrared and Visible Image Fusion." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835278)] [[code](https://github.com/lxq-jnu/CRIF)]
+
+- **AgentFuse:** Yuhao Wang, Lingjuan Miao, Zhiqiang Zhou, Yajun Qiao.
+   "Faster and Better: Reinforced Collaborative Distillation and Self-Learning for Infrared-Visible Image Fusion." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836223)] [[code](https://github.com/wyhlaowang/AgentFuse)]
+
+- **DDAP:** Xinyi Zeng, Wenxia Yin, Jiaqi Cui, Pinxian Zeng, Bo Liu, Yan Wang.
+   "Infrared-Visible Image Fusion with Dual Degradation-Aware Priors." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835721)] [[code]( )]
 
 - **SpeciFuse:** Xuan Li, Zhaoming Feng, Xiang Yuan, Huabing Zhou, Jiayi Ma.
    "SpeciFuse: Learning Degradation-Type Specificity for Robust Infrared and Visible Image Fusion Under Composite Degradations." IJCAI (2026).
