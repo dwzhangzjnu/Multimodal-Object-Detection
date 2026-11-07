@@ -422,6 +422,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation." IJCAI (2026).
   [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/7214.pdf)] [[code](https://github.com/yuanhang-yao/semantic-prior)]
 
+- **PI-SAM:** Yuan Li, Jing Wu, Chengnian Long.
+   "PI-SAM: Physics-Informed Segment Anything for Infrared Small Target Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11436051)] [[code]( )]
+
 - **IRSTD-Agent:** Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei.
    "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.05342)] [[code]( )]
@@ -441,6 +445,13 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DISTA-Net++:** Mengze Xu, Zhu Liu, Weidong Sheng, Boyang Li, Yimian Dai, Ming-Ming Cheng, Jian Yang.
    "DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.18773)] [[code](https://github.com/GrokCV/GrokDet)]
+
+### 2025
+
+- **SAIST:** Mingjin Zhang, Xiaolong Li, Fei Gao, Jie Guo, Xinbo Gao, Jing Zhang.
+   "SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SAIST_Segment_Any_Infrared_Small_Target_Model_Guided_by_Contrastive_CVPR_2025_paper.html)] [[code]( )]
+
 
 
 ## RGB-IR Object Detection 
