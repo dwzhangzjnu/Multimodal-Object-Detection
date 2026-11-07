@@ -449,7 +449,7 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 ### 2025
 
 - **SAIST:** Mingjin Zhang, Xiaolong Li, Fei Gao, Jie Guo, Xinbo Gao, Jing Zhang.
-   "SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining." CVPR (2026).
+   "SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SAIST_Segment_Any_Infrared_Small_Target_Model_Guided_by_Contrastive_CVPR_2025_paper.html)] [[code]( )]
 
 
@@ -1032,6 +1032,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **P2Fusion:** Yi Shi, Huichao Xie, Yuqing Wang, Mingyu Wang, Kaihui Yang, Yu Liu, Ruitao Lu, Lizhe Li, Junwei Han, Dingwen Zhang.
    "P2Fusion: Prompt-based Progressive Infrared-Visible Image Fusion via Dual-Prior Distillation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2608.13045)] [[code](https://p2fusion.github.io/)]
+
+- **AMG-Fuse:** Xilai Li, Xiaosong Li, Haishu Tan, Tao Ye, Huafeng Li, Hongbin Wang.
+   "Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2606.26812)] [[code](https://github.com/ixilai/AMG-Fuse)]
 
 - **IDEAL:** Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, Xingfeng Li.
    "Difference-Aware Decision Learning for Multimodal Image Fusion." ICML (2026).
