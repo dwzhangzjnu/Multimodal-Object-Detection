@@ -460,6 +460,13 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 [[Multispectral Object Detection](https://github.com/DocF/MOD-ZOO)]
 
+### 2027
+
+- **DEFusion:** Menghang Chen, Jiale Qi, Bingxin Zhou, Quanyu Lu, Xudong Luo, Jiqiang Qu, Yanyu Ding, Dexue Bi.
+   "DEFusion: Dual-Enhancement Cross-Modal feature interaction for Visibleâ€“Infrared object detection with Inter-Modal interference suppression." INFPHY (2027).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1350449526006286)] [[code](https://github.com/ccccccc-lab/DEFusion)]
+
+
 ### 2026
 
 - **SuppreSensing:** Xin Wu, Zhenyu Gao, Qiankun Zhang, Shaoyong Guo.
