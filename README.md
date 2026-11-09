@@ -1044,6 +1044,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.26812)] [[code](https://github.com/ixilai/AMG-Fuse)]
 
+- **TEDFusion:** Huan Kang, Hui Li, Tianyang Xu, Tao Zhou, Xiao-Jun Wu, Josef Kittler.
+   "Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space." ICML (2026).
+  [[paper](https://arxiv.org/abs/2606.15104)] [[code](https://github.com/Shaoyun2023/TEDFusion)]
+
 - **IDEAL:** Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, Xingfeng Li.
    "Difference-Aware Decision Learning for Multimodal Image Fusion." ICML (2026).
   [[paper](https://openreview.net/forum?id=j4E6NstJR4)] [[code](https://github.com/Pon915/IDEAL-main)]
