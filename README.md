@@ -163,6 +163,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather." ACM MM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3767308.3834979)] [[code](https://github.com/PolarisFTL/C2FXNet)]
 
+- **GIFT:** Yin Zhang, Yaoyue Zheng, Yongqiang Zhang, Bogdan Raducanu, Dan Liu.
+   "GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.35374)] [[code](https://github.com/zhangyin1996/GIFT)]
+
 - **HE-MoESNN:** Long Chen, Yaxin Li, Jiangrong Shen, Ling Huang, Yunzhi Zhuge, Qi Xu, Gang Pan, Qiang Zhang.
    "Spiking Neural Network with Mixture of Heterogeneous Enhancement Experts for Underwater Object Detection." ACM MM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3767308.3835951)] [[code]( )]
@@ -425,6 +429,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **PI-SAM:** Yuan Li, Jing Wu, Chengnian Long.
    "PI-SAM: Physics-Informed Segment Anything for Infrared Small Target Detection." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11436051)] [[code]( )]
+
+- **DGSPNet:** Zixuan Wang, Haoran Sun, Jiaming Lu, Wenxuan Wang, Zhongling Huang, Dingwen Zhang, Xuelin Qian, Junwei Han.
+   "Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection." TGRS (2026).
+  [[paper](https://arxiv.org/abs/2511.19306)] [[code]( )]
 
 - **IRSTD-Agent:** Jiawen Xi, Yu Zhang, Tianyi Zhao, Zhu Liu, Maoxun Yuan, Xingxing Wei.
    "IRSTD-Agent: Agentic Infrared Small Target Detection via Zoom-Guided Interaction Learning." arXiv (2026).
@@ -1033,6 +1041,13 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 ## Visible-Infrared Image Fusion 
 
 [[Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)]
+
+### 2027
+
+- **DAMFusion:** Junjie Ma, Peng Hu, Yi Li.
+   "DAMFusion: An end-to-end degradation-aware multi-modal image fusion framework." NN (2027).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026012773)] [[code](https://github.com/Wohaizainuli/DAMFusion)]
+
 
 ### 2026
 
