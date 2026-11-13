@@ -980,6 +980,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "An RGB-Event Hierarchical Fusion Enhancement Network for Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11557375)] [[code](https://github.com/wkydawang/FENET)]
 
+- **FocusMamba:** Nan Yang; Yang Wang; Zhanwen Liu; Yuchao Dai; Yang Liu; Xiangmo Zhao.
+   "Focus Through Motion: RGB-Event Collaborative Token Sparsification for Efficient Object Detection." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11770026)] [[code](https://github.com/Zizzzzzzz/FocusMamba)]
+
 - **CvHeat-DET:** Lan Chen; Yu Jin; Xiao Wang; Bo Jiang; Lin Zhu; Yonghong Tian.
    "Dynamic Graph Induced Contour-aware Heat Conduction Network for Event Stream based Object Detection." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11655927)] [[code](https://github.com/Event-AHU/OpenEvDET)]
@@ -1022,11 +1026,24 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "EvRT-DETR: Latent Space Adaptation of Image Detectors for Event-based Vision." ICCV (2025).
   [[paper](https://arxiv.org/abs/2412.02890)] [[code](https://github.com/realtime-intelligence/evrt-detr)]
 
+- **SMamba:** Nan Yang, Yang Wang, Zhanwen Liu, Meng Li, Yisheng An, Xiangmo Zhao.
+   "SMamba: Sparse Mamba for Event-based Object Detection." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2501.11971)] [[code](https://github.com/Zizzzzzzz/SMamba_AAAI2025)]
+
+- **SpikingViT:** Lixing Yu; Hanqi Chen; Ziming Wang; Shaojie Zhan; Jiankun Shao; Qingjie Liu.
+   "SpikingViT: A Multiscale Spiking Vision Transformer Model for Event-Based Object Detection." TCDS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10586833)] [[code](https://github.com/Chrazqee/SpikingViT)]
+
+
 ### 2024
 
 - **SpikeYOLO:** Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li.
    "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.20708)] [[code](https://github.com/BICLab/SpikeYOLO)]
+
+- **SFNet:** Zhanwen Liu; Nan Yang; Yang Wang; Yuke Li; Xiangmo Zhao; Fei-Yue Wang.
+   "Enhancing Traffic Object Detection in Variable Illumination With RGB-Event Fusion." TITS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10682110)] [[code](https://github.com/Zizzzzzzz/SFNet_T-ITS24)]
 
 
 ## RGB-Sonar Object Detection 
@@ -1138,6 +1155,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **TAFuse:** Liangjie Song; Gang Liu; Hanlin Xu; Bo Liu; Yao Qian; Yiyao Zhao.
    "A Texture-Aware Framework for Infrared and Visible Image Fusion." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11667719)] [[code](https://github.com/XuHanlin66839/TAFuse)]
+
+- **DUGS-Diff:** Shengka Shi; Feng Zhang; Zhixi Feng; Yinghui Xing; Jiande Sun; Yantong Zhan.
+   "Dual-Granularity Semantic Uncertainty-Guided Diffusion Model for Infrared and Visible Image Fusion." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11793749)] [[code](https://github.com/RSMagneto/DUGS-Diff)]
 
 - **Fast-EPFuse:** Fusheng Li; Yuzhen Niu; Wenxi Liu; Rui Xu; Huangbiao Xu; Tiesong Zhao.
    "Fast-EPFuse: Explicit Priors for Lightweight and Interpretable Infrared and Visible Image Fusion." TCSVT (2026).
