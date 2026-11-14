@@ -243,6 +243,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "MTRAG: Multi-Target Referring and Grounding via Hybrid Semantic-Spatial Integration." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397268)] [[code](https://github.com/deng-ai-lab/MTRAG)]
 
+- **VPP-LLaVA:** Wei Tang; Yanpeng Sun; Qinying Gu; Zechao Li.
+   "Visual Position Prompt for MLLM Based Visual Grounding." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11359555)] [[code](https://github.com/WayneTomas/VPP-LLaVA)]
+
 - **PR-OVD:** Wei Zhang; Zhu Teng; Zhixiang Chi; Junnan Zou; Yi Liu; Jianping Fan.
    "Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11720150)] [[code]( )]
@@ -1167,6 +1171,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **SpikeVFuse:** Muhang Cheng; Hongwei Mo.
    "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11673287)] [[code](https://github.com/cmuhang/SpikeVFuse)]
+
+- **TextFuse:** Guohua Lv; Chaoqun Sima; Juncan Wang; Yongbiao Gao; Zhonghe Wei; Jinyong Cheng.
+   "TextFuse: Text Information Guided Infrared and Visible Image Fusion." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11432942)] [[code](https://github.com/poison-pig/TextFuse)]
 
 - **DDFusion:** Yiming Zhu; Tianpei Zhang; Jufeng Zhao; Lang Wu; Zhao Cai; Shuai Yuan.
    "DDFusion: Modality-Specific Degradation Decoupling for Robust Infrared-Visible Image Fusion." TMM (2026).
