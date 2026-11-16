@@ -474,6 +474,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....�
 
 ### 2027
 
+- **FDMF:** Hongyu Sun, Mingxing Jia, Yilong Dou, Jiaxu Zhao, Dapeng Niu.
+   "Frequency-Decoupled Multimodal Fusion with scale-aware interaction for visible–infrared object detection." PR (2027).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326022363)] [[code]( )]
+
 - **DEFusion:** Menghang Chen, Jiale Qi, Bingxin Zhou, Quanyu Lu, Xudong Luo, Jiqiang Qu, Yanyu Ding, Dexue Bi.
    "DEFusion: Dual-Enhancement Cross-Modal feature interaction for Visible–Infrared object detection with Inter-Modal interference suppression." INFPHY (2027).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1350449526006286)] [[code](https://github.com/ccccccc-lab/DEFusion)]
