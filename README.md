@@ -287,6 +287,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)] [[code]( )]
 
+- **RelMLLM:** Tianyi Zhao, Qihao Xu, Jiawen Xi, Duanni Meng, Bo Zhao, Maoxun Yuan, Xingxing Wei, Bo Li.
+   "Beyond Paired Inputs: Learning to Leverage RGB-T Cross-Modal Relations in Multimodal Large Language Models." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.19493)] [[code](https://github.com/Zhao-Tian-yi/RelMLLM)]
+
 - **EPIC-Bench:** Haozhe Shan, Xiancong Ren, Han Dong, Yingji Zhang, Haoyuan Shi, Jiayu Hu, Qinfan Zhang, Yi Zhang, Yong Dai, Bin Shen, Lizhen Qu, Zenglin Xu, Xiaozhu Ju.
    "EPIC-Bench: A Perception-Centric Benchmark for Fine-Grained Embodied Visual Grounding in Vision-Language Models." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.17070)] [[code](https://epic-bench.github.io/EPIC-Bench/)]
