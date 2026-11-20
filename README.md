@@ -450,6 +450,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.07015)] [[code](https://github.com/shushengyuan/OmniIRSTD-VL)]
 
+- **VBE-UNet:** Jiayi Zuo, Songwei Pei, Shuhuai Wang, Yifei Wu, Shangguang Wang.
+   "Verifying Before Enhancing: Target Evidence Chain Verification for Infrared Small Target Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.25724)] [[code]( )]
+
 - **DiffIRSTD:** Xuelin Qian, Zixuan Wang, Chang Xu, Dingwen Zhang, Junwei Han.
    "Seeing through Denoising: Frequency-guided One-step Denoising for Infrared Small Target Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.29361)] [[code]( )]
@@ -628,6 +632,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **FADN:** Xiaomin Liu; Haojie Yin; Haoyu Wang.
    "Overcoming High-Frequency Attenuation in UAV Infrared-Visible Remote Sensing Tiny Object Detection: Frequency-Domain Amplitude-Phase Decoupling Network." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11733957)] [[code]( )]
+
+- **CCMFusion:** Fei Cai; Zhong Qu; Xuehui Yin; Yuhong Pan.
+   "Collaborative Cross-Modal Fusion with Dynamic Enhancement and Reconstruction Guidance for UAV Object Detection." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11793751)] [[code](https://github.com/Caifei123/)]
 
 - **SMESP-DiffDet:** Zian Wang; Puhong Duan; Jin Yuan; Xudong Kang; Zhiyong Li.
    "SMESP-DiffDet: Small-object MoE Enhanced Spatial Prior-guided DiffDet for Visible-infrared Object Detection." TGRS (2026).
@@ -1235,6 +1243,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **Diff-RF:** Xunpeng Yi, Zaixi Du, Qinglong Yan, Yibing Zhang, Han Xu, Jiayi Ma.
    "Diff-RF: Mutually Reinforced Image Registration and Fusion via Degradation-Aware Learning." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.28235)] [[code](https://github.com/XunpengYi/Diff-RF)]
+
+- **GenRF:** Linfeng Tang, Zhijun Fan, Yang Chen, Zizhuo Li, Hao Zhang, Jiayi Ma.
+   "GenRF: Generative Registration-free Image Fusion." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.24157)] [[code]( )]
 
 - **SAGE:** Timing Li, Yiming Sun, Boan Tao, Xiyuan Gao, Haifang Cao, Pengfei Zhu.
    "SAGE: Source-Anchored Guidance via Frequency Equalization for Hierarchical RGB-T Alignment and Fusion." arXiv (2026).
