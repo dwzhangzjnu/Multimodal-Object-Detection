@@ -189,6 +189,13 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 [[Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding)]
 
 
+### 2027
+
+- **Ref-YOLO-World:** Yuki Aoki, Hiroo Bekku, Tadashi Okoshi, Jin Nakazawa.
+   "Ref-YOLO-World: Decoupling Text-Side Computation for Efficient Referring Expression Comprehension on Edge Devices." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.27756)] [[code](https://github.com/sakusaku3939/Ref-YOLO-World)]
+
+
 ### 2026
 
 - **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.
@@ -1112,6 +1119,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "MemoryFusion: Cross-Temporal Memory Learning for Multimodal Video Fusion." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.39322)] [[code](https://github.com/Meiqi-Gong/MemoryFusion)]
 
+- **MODULE:** Yunfei Deng, Han Xu, Jiayi Ma, Guangcan Liu.
+   "MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.27269)] [[code](https://github.com/Meskend/MODULE)]
+
 - **RCS-Fusion:** Zeyu Wang, Mingyu Ge, Haiyu Song, Haoran Duan.
    "Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2609.38968)] [[code](https://github.com/GMY628/RCS-Fusion)]
@@ -1179,6 +1190,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DUGS-Diff:** Shengka Shi; Feng Zhang; Zhixi Feng; Yinghui Xing; Jiande Sun; Yantong Zhan.
    "Dual-Granularity Semantic Uncertainty-Guided Diffusion Model for Infrared and Visible Image Fusion." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11793749)] [[code](https://github.com/RSMagneto/DUGS-Diff)]
+
+- **THSFuse:** Quanrui Wen; Xiu Shu; Qiao Liu; Rui Chen; Xuyang Li; Di Yuan, Xiaojun Chang, Zhenyu He.
+   "Text-Guided Hierarchical Semantic Selective Cross-Modal Interaction and Reconstruction for Infrared-Visible Image Fusion." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11805058)] [[code]( )]
 
 - **Fast-EPFuse:** Fusheng Li; Yuzhen Niu; Wenxi Liu; Rui Xu; Huangbiao Xu; Tiesong Zhao.
    "Fast-EPFuse: Explicit Priors for Lightweight and Interpretable Infrared and Visible Image Fusion." TCSVT (2026).
