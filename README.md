@@ -1092,6 +1092,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 
 ### 2027
 
+- **IDFusion:** Kaicheng Xu, Peng Liu, Congxuan Zhang, An Wei, Zhen Chen, Ke Lu, Weiming Hu.
+   "IDFusion: Illumination-guided dual-branch learning for infrared and visible image fusion." PR (2027).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326023101)] [[code](https://github.com/Kylesesa/IDFusion)]
+
 - **DAMFusion:** Junjie Ma, Peng Hu, Yi Li.
    "DAMFusion: An end-to-end degradation-aware multi-modal image fusion framework." NN (2027).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026012773)] [[code](https://github.com/Wohaizainuli/DAMFusion)]
@@ -1194,6 +1198,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **DUGS-Diff:** Shengka Shi; Feng Zhang; Zhixi Feng; Yinghui Xing; Jiande Sun; Yantong Zhan.
    "Dual-Granularity Semantic Uncertainty-Guided Diffusion Model for Infrared and Visible Image Fusion." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11793749)] [[code](https://github.com/RSMagneto/DUGS-Diff)]
+
+- **DSSFusion:** Xun Zhang; MengLin Zhou; Chi Zhang; Suleman Mazhar; Yan Zheng.
+   "DSSFusion: Deep Synergy Segmentation-Fusion Network for Infrared and Visible Image Fusion." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11797614)] [[code](https://github.com/ZHOU-MengLin/DSSFusion)]
 
 - **THSFuse:** Quanrui Wen; Xiu Shu; Qiao Liu; Rui Chen; Xuyang Li; Di Yuan, Xiaojun Chang, Zhenyu He.
    "Text-Guided Hierarchical Semantic Selective Cross-Modal Interaction and Reconstruction for Infrared-Visible Image Fusion." TCSVT (2026).
