@@ -318,6 +318,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "GrabVG: Graph-Attentive Binding for Visual Grounding in UAV Imagery." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.18996)] [[code]( )]
 
+- **AgroVG+:** Haocheng Li, Juepeng Zheng, Guilong Xiao, Kaiqi Du, Gengmeng Pu, Haohuan Fu, Jianxi Huang.
+   "AgroVG+: Generalized Visual Grounding in Agriculture with Region-Supervised Action Generation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.29396)] [[code]( )]
+
 - **Angular Relevance:** Parsa Esmaeilkhani, Longin Jan Latecki.
    "Angular Supervision for Visual Object Grounding in Autoregressive Vision-Language Models." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.32220)] [[code](https://github.com/ParsaKhani/Angular_object_grounding)]
@@ -736,10 +740,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "FMAF-YOLO: fine-grained multi-modal adaptive fusion network for multispectral object detection." MST (2026).
   [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ae73a0)] [[code](https://github.com/JZJ1217/FMAF-YOLO)]
 
-- **SLGNet:** Xiantai Xiang, Guangyao Zhou, Zixiao Wen, Wenshuai Li, Ben Niu, Feng Wang, Lijia Huang, Qiantong Wang, Yuhan Liu, Zongxu Pan, Yuxin Hu.
-   "SLGNet: Synergizing Structural Priors and Language-Guided Modulation for Multimodal Object Detection." arXiv (2026).
+- **SLGNet:** Xiantai Xiang, Jiacheng Deng, Kai Liu, Zixiao Wen, Wenshuai Li, Ben Niu, Guangyao Zhou.
+   "SLGNet: Unifying Structural and Language Guidance for Multimodal Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2601.02249)] [[code](https://github.com/Xiantai01/SLGNet)]
-  
+
 - **Bridging the RGB-IR Gap:** Jiaqi Wu, Zhen Wang, Enhao Huang, Kangqing Shen, Yulin Wang, Yang Yue, Yifan Pu, Gao Huang.
    "Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2604.11234)] [[code](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)]
