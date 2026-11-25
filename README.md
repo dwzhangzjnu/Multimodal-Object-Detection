@@ -350,6 +350,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Training-Free Open-Vocabulary Visual Grounding for Remote Sensing Images and Videos." arXiv (2026).
   [[paper](https://arxiv.org/abs/2606.16124)] [[code]( )]
 
+- **NEST:** Yuchen Zhang, Yuan Gao, Sebastian Schmidt, Johannes Betz.
+   "NEST: Uncovering and Nesting Unknown Objects in Open-World Object Detection." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.32981)] [[code](https://github.com/TUM-AVS/NEST)]
+
 - **SL-Ground:** Yang-Syu Li, Cheng-Huan Yang, Chia-Yung Jui, Peggy Joy Lu.
    "SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.24814)] [[code]( )]
