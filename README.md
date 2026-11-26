@@ -760,6 +760,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
    "Residual Optimal Transport-Based Experts Collaboration Towards Modality-Aware Infrared-Visible Object Detection." arXiv (2026).
   [[paper](https://arxiv.org/abs/2609.03516)] [[code]( )]
 
+- **Admoab-DETR:** Wenchao Li, Haoran Jia, Shuyuan Wen, Keyan Chen.
+   "Admoab-DETR: Resolution-Tiered Fusion for Infrared-Visible Object Detection with Missing Modalities." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.34163)] [[code](https://github.com/liwenchao0615/Admoab-DETR)]
+
 - **A2DINOv3:** Jiekang Feng, Zhihe Fan, Yunqi Zhu, Xinjie Yao, Yueying Zhang, Yike Gao, Ranxin Li, Guanzuo Chen.
    "A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration." arXiv (2026).
   [[paper](https://arxiv.org/abs/2608.21099)] [[code]( )]
@@ -1126,6 +1130,10 @@ If you have any suggestions, please feel free to contact me. Keep updating....ðŸ
 - **PCDFusion:** Rui Liu, Lin Gu, Hesong Li, Ying Fu.
    "PCDFusion: Proposal-Context-Detail Bayesian Rendering for Infrared-Visible Image Fusion." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.23663)] [[code](https://github.com/BIT-RuiLiu/PCDFusion)]
+
+- **OneHRL:** Hongwei Yu, Daoqing Zha, Jiawei Li, Yancheng Bai, Lei Sun, Xiangxiang Chu.
+   "Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.33857)] [[code](https://yuhongwei22.github.io/onehrl-site/)]
 
 - **MemoryFusion:** Meiqi Gong, Hao Zhang, Jiayi Ma.
    "MemoryFusion: Cross-Temporal Memory Learning for Multimodal Video Fusion." NeurIPS (2026).
